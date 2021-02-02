@@ -1,3 +1,5 @@
 schools.code-workspace
 schools.yaml
 soup/
+.vscode/
+.ipynb_checkpoints/
