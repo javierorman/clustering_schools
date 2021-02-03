@@ -1,5 +1,6 @@
 schools.code-workspace
 schools.yaml
-soup/
 .vscode/
 .ipynb_checkpoints/
+raw_data/.DS_Store
+.DS_Store
