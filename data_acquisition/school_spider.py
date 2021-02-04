@@ -95,4 +95,4 @@ columns = ['Address', 'Ambitious_Instruction', 'Collaborative_Teachers', 'Effect
 df_schools = pd.DataFrame.from_dict(dict_schools, orient='index', columns=columns)
 
 # Export CSV
-df_schools.to_csv('soup/schools.csv')
+df_schools.to_csv('../raw_data/schools.csv')
