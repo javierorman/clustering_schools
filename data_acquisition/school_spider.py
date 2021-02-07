@@ -1,18 +1,17 @@
 # import requests
+import json
+import pandas as pd
+import time
 from selenium import webdriver
 PATH_CHROMEDRIVER = '/Users/javierorman/Python/chromedriver'
 driver = webdriver.Chrome(PATH_CHROMEDRIVER)
-
-import time
-import pandas as pd
-import json
 
 # Prepare header
 my_user_agent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36'
 headers = {'User-Agent': my_user_agent}
 
 #### Scrape homepage for links to individual schools###
-# 
+#
 # Add to dictionary:
 #   {'A.N. Pritzker School': ['2009 W Schiller St, Chicago, IL 60622']}
 
@@ -46,17 +45,17 @@ for url in urls:
     time.sleep(1)
     target = driver.find_element_by_id('react_target')
     info = target.find_element_by_tag_name('a')
-    
+
     school_name = info.find_element_by_tag_name('h1').text
     school_address = info.find_elements_by_tag_name('h3')[1].text
     essentials_url = driver.find_element_by_xpath(
         '/html/body/div[3]/div/section/div[2]/div[2]/div[2]/h2[1]/a').get_attribute('href')
-    
+
     dict_schools[school_name] = []
     dict_schools[school_name].append(school_address)
 
     essentials_urls.append(essentials_url)
-    
+
 # Scrape 'performance' page for data and add to dictionary
 #   {'A.N. Pritzker School': ['2009 W Schiller St, Chicago, IL 60622', 70, 63, 46, 45, 42]}
 # url_performance = 'https://5-essentials.org/cps/5e/2018/s/610229/essentials/'
@@ -91,8 +90,10 @@ print(json.dumps(dict_schools, indent=2))
 driver.quit()
 
 # Make DataFrame from dictionary:
-columns = ['Address', 'Ambitious_Instruction', 'Collaborative_Teachers', 'Effective_Leaders', 'Involved_Families', 'Supportive_Environment']
-df_schools = pd.DataFrame.from_dict(dict_schools, orient='index', columns=columns)
+columns = ['Address', 'Ambitious_Instruction', 'Collaborative_Teachers',
+           'Effective_Leaders', 'Involved_Families', 'Supportive_Environment']
+df_schools = pd.DataFrame.from_dict(
+    dict_schools, orient='index', columns=columns)
 
 # Export CSV
 df_schools.to_csv('../raw_data/schools.csv')
