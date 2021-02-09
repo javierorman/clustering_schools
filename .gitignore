@@ -3,3 +3,4 @@ schools.code-workspace
 .ipynb_checkpoints/
 raw_data/.DS_Store
 .DS_Store
+.env
