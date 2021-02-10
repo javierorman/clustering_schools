@@ -1,0 +1,641 @@
+,school_name,address,Ambitious_Instruction,Collaborative_Teachers,Effective_Leaders,Involved_Families,Supportive_Environment,signed_silhouettes,income
+0,A.N. Pritzker School,"2009 W Schiller St, Chicago, IL 60622",63.0,46.0,42.0,70.0,45.0,0.5387429382186887,54344.0
+1,ACE Technical Charter School,"5410 S State St, Chicago, IL 60609",79.0,71.0,65.0,70.0,46.0,-0.41070628788018915,31357.0
+2,ASPIRA Business and Finance,"2989 N Milwaukee Ave, Chicago, IL 60618",55.0,32.0,16.0,25.0,49.0,0.6594431566009662,55303.0
+3,ASPIRA Charter School - Early College High School,"3986 W Barry Ave, Chicago, IL 60618",72.0,64.0,52.0,75.0,64.0,-0.3895073614329725,55303.0
+4,ASPIRA Charter School - Haugan Middle School,"3729 W Leland Ave, Chicago, IL 60625",99.0,87.0,80.0,80.0,60.0,-0.717649962532042,53288.0
+5,Abraham Lincoln Elementary School,"615 W Kemper Pl, Chicago, IL 60614",68.0,77.0,74.0,92.0,66.0,-0.44736656007640413,93702.0
+6,Academy for Global Citizenship Charter School,"4647 W 47th St, Chicago, IL 60632",80.0,83.0,69.0,96.0,59.0,-0.7031787817319493,46811.0
+7,Acero Charter Schools - Bartolome de las Casas,"1641 W 16th St, Chicago, IL 60608",70.0,62.0,49.0,68.0,41.0,0.2727083702134316,33821.0
+8,Acero Charter Schools - Brighton Park,"4420 S Fairfield Ave, Chicago, IL 60632",58.0,44.0,53.0,69.0,46.0,0.5142230494233737,46811.0
+9,Acero Charter Schools - Carlos Fuentes,"2845 W Barry Ave, Chicago, IL 60618",60.0,37.0,30.0,69.0,51.0,0.5906385790852411,55303.0
+10,Acero Charter Schools - Esmeralda Santiago,"2510 W Cortez St, Chicago, IL 60622",99.0,81.0,64.0,82.0,82.0,-0.7149205790678157,54344.0
+11,Acero Charter Schools - Jovita Idar,"5050 S Homan Ave, Chicago, IL 60632",43.0,28.0,25.0,51.0,22.0,0.6836237118069163,46811.0
+12,Acero Charter Schools - Major Hector P. Garcia MD,"4248 W 47th St, Chicago, IL 60632",53.0,50.0,32.0,58.0,56.0,0.6282910249858151,46811.0
+13,Acero Charter Schools - Octavio Paz Campus,"2651 W 23rd St, Chicago, IL 60608",55.0,47.0,56.0,36.0,37.0,0.6603703313415823,33821.0
+14,Acero Charter Schools - Officer Donald J. Marquez,"2916 W 47th St, Chicago, IL 60632",65.0,63.0,55.0,71.0,38.0,0.20111443209835553,46811.0
+15,Acero Charter Schools - PFC Omar E. Torres,"4248 W 47th St, Chicago, IL 60632",56.0,16.0,22.0,43.0,40.0,0.6851043802145786,46811.0
+16,Acero Charter Schools - Roberto Clemente,"2050 N Natchez Ave, Chicago, IL 60707",59.0,23.0,15.0,47.0,34.0,0.6617233637077871,60345.0
+17,Acero Charter Schools - Rufino Tamayo,"5135 S California Ave, Chicago, IL 60632",76.0,73.0,61.0,80.0,60.0,-0.6441572789516676,46811.0
+18,Acero Charter Schools - SPC Daniel Zizumbo,"4248 W 47th St, Chicago, IL 60632",62.0,16.0,30.0,51.0,46.0,0.675241239101667,46811.0
+19,Acero Charter Schools - Sandra Cisneros,"2744 W Pershing Rd, Chicago, IL 60632",49.0,49.0,49.0,62.0,33.0,0.6338828819580435,46811.0
+20,Acero Charter Schools - Sor Juana Ines de la Cruz,"7416 N Ridge Ave, Chicago, IL 60645",53.0,25.0,23.0,35.0,43.0,0.699513325155031,52022.0
+21,Acero Charter Schools - Victoria Soto,"5025 S St. Louis Ave, Chicago, IL 60632",67.0,48.0,34.0,50.0,60.0,0.6144188660528028,46811.0
+22,Adam Clayton Powell Paideia Community Academy ES,"7511 S South Shore Dr, Chicago, IL 60649",87.0,42.0,37.0,47.0,57.0,0.4994490059142657,35616.0
+23,Adlai E Stevenson Elementary School,"8010 S Kostner Ave, Chicago, IL 60652",98.0,90.0,79.0,96.0,79.0,-0.6875338473735215,64997.0
+24,Agustin Lara Elementary Academy,"4619 S Wolcott Ave, Chicago, IL 60609",86.0,70.0,70.0,74.0,62.0,-0.6486614429493391,31357.0
+25,Air Force Academy High School,"3630 S Wells St, Chicago, IL 60609",62.0,65.0,47.0,55.0,43.0,0.4764547046294657,31357.0
+26,Al Raby High School,"3545 W Fulton Blvd, Chicago, IL 60624",73.0,63.0,62.0,52.0,55.0,0.05386109479527123,28695.0
+27,Albany Park Multicultural Academy,"4929 N Sawyer Ave, Chicago, IL 60625",83.0,65.0,52.0,44.0,55.0,0.16113058586053838,53288.0
+28,Albert G Lane Technical High School,"2501 W Addison St, Chicago, IL 60618",85.0,58.0,48.0,80.0,76.0,-0.4793009413820433,55303.0
+29,Albert R Sabin Elementary Magnet School,"2216 W Hirsch St, Chicago, IL 60622",68.0,46.0,40.0,58.0,40.0,0.6607802120064896,54344.0
+30,Alessandro Volta Elementary School,"4950 N Avers Ave, Chicago, IL 60625",73.0,58.0,51.0,71.0,48.0,0.09029562783870945,53288.0
+31,Alex Haley Elementary Academy,"11411 S Eggleston Ave, Chicago, IL 60628",97.0,73.0,63.0,73.0,63.0,-0.6899450361126012,47232.0
+32,Alexander Graham Bell Elementary School,"3730 N Oakley Ave, Chicago, IL 60618",65.0,62.0,58.0,81.0,56.0,-0.32184864524494294,55303.0
+33,Alexander Graham Elementary School,"4436 S Union Ave, Chicago, IL 60609",73.0,55.0,39.0,56.0,41.0,0.5726005902997328,31357.0
+34,Alexander Hamilton Elementary School,"1650 W Cornelia Ave, Chicago, IL 60657",70.0,49.0,57.0,79.0,70.0,-0.2199779121019663,74895.0
+35,Alfred Nobel Elementary School,"4127 W Hirsch St, Chicago, IL 60651",75.0,80.0,75.0,71.0,37.0,-0.44704945786186273,41711.0
+36,Alice L Barnard Computer Math & Science Ctr ES,"10354 S Charles St, Chicago, IL 60643",48.0,49.0,56.0,51.0,18.0,0.5764623368566827,62868.0
+37,Ambrose Plamondon Elementary School,"2642 W 15th Pl, Chicago, IL 60608",85.0,59.0,44.0,60.0,70.0,-0.12806078667503437,33821.0
+38,Amelia Earhart Options for Knowledge ES,"1710 E 93rd St, Chicago, IL 60617",95.0,70.0,43.0,,60.0,-0.3754801879233194,43572.0
+39,Amos Alonzo Stagg Elementary School,"7424 S Morgan St, Chicago, IL 60621",89.0,70.0,69.0,68.0,69.0,-0.5889424581436318,23875.0
+40,Andrew Carnegie Elementary School,"1414 E 61st Pl, Chicago, IL 60637",78.0,50.0,54.0,62.0,48.0,0.307277250557615,30244.0
+41,Andrew Jackson Elementary Language Academy,"1340 W Harrison St, Chicago, IL 60607",52.0,32.0,36.0,59.0,33.0,0.6795626166106217,59427.0
+42,Anna R. Langford Community Academy,"6010 S Throop St, Chicago, IL 60636",50.0,40.0,39.0,36.0,18.0,0.6875409283070086,33080.0
+43,Annie Keller Elementary Gifted Magnet School,"3020 W 108th St, Chicago, IL 60655",99.0,97.0,86.0,99.0,84.0,-0.637032910222643,73296.0
+44,Ariel Elementary Community Academy,"1119 E 46th St, Chicago, IL 60653",68.0,63.0,61.0,79.0,38.0,-0.06492552852955612,18464.0
+45,Arnold Mireles Elementary Academy,"9000 S Exchange Ave, Chicago, IL 60617",64.0,50.0,46.0,47.0,34.0,0.7082793702658349,43572.0
+46,Arthur A Libby Elementary School,"5300 S Loomis Blvd, Chicago, IL 60609",69.0,32.0,35.0,45.0,48.0,0.6884890447016668,31357.0
+47,Arthur Dixon Elementary School,"8306 S Saint Lawrence Ave, Chicago, IL 60619",99.0,78.0,69.0,78.0,64.0,-0.7305979249404048,42754.0
+48,Arthur E Canty Elementary School,"3740 N Panama Ave, Chicago, IL 60634",71.0,60.0,52.0,68.0,44.0,0.16429448510329162,62214.0
+49,Arthur R Ashe Elementary School,"8505 S Ingleside Ave, Chicago, IL 60619",80.0,80.0,67.0,68.0,35.0,-0.3827722505488432,42754.0
+50,Asa Philip Randolph Elementary School,"7316 S Hoyne Ave, Chicago, IL 60636",64.0,34.0,35.0,27.0,40.0,0.6995751253529696,33080.0
+51,Ashburn Community Elementary School,"8300 S St Louis Ave, Chicago, IL 60652",83.0,66.0,64.0,76.0,53.0,-0.5062526530229414,64997.0
+52,Asian Human Services - Passages Charter School,"1643 W Bryn Mawr Ave, Chicago, IL 60660",57.0,65.0,45.0,61.0,30.0,0.5291796222789529,45169.0
+53,Augustus H Burley Elementary School,"1630 W Barry Ave, Chicago, IL 60657",85.0,54.0,57.0,84.0,54.0,-0.3219601555431072,74895.0
+54,Austin College and Career Academy High School,"231 N Pine Ave, Chicago, IL 60644",70.0,67.0,52.0,58.0,45.0,0.2547545231726304,35248.0
+55,Avalon Park Elementary School,"8045 S Kenwood Ave, Chicago, IL 60619",94.0,35.0,40.0,22.0,77.0,0.35389543037937027,42754.0
+56,Back of the Yards IB HS,"2111 W 47th St, Chicago, IL 60609",86.0,71.0,49.0,67.0,73.0,-0.4914980968479833,31357.0
+57,Barbara Vick Early Childhood & Family Center,"2554 W 113th St, Chicago, IL 60655",,63.0,69.0,92.0,,-0.5090849777009282,73296.0
+58,Belmont-Cragin Elementary School,"5252 W Palmer St, Chicago, IL 60639",67.0,77.0,61.0,86.0,54.0,-0.5561104336729225,50923.0
+59,Benito Juarez Community Academy High School,"1450 W Cermak Rd, Chicago, IL 60608",77.0,78.0,59.0,84.0,62.0,-0.6440840834903688,33821.0
+60,Benjamin E Mays Elementary Academy,"6656 S Normal Blvd, Chicago, IL 60621",56.0,32.0,31.0,26.0,42.0,0.6694155612463905,23875.0
+61,Bernhard Moos Elementary School,"1711 N California Ave, Chicago, IL 60647",75.0,69.0,65.0,65.0,58.0,-0.4863765093885146,46572.0
+62,Beulah Shoesmith Elementary School,"1330 E 50th St, Chicago, IL 60615",74.0,74.0,60.0,53.0,42.0,0.015778290487788674,41344.0
+63,Blair Early Childhood Center,"6751 W 63rd Pl, Chicago, IL 60638",,73.0,81.0,86.0,,-0.7035341490558372,56616.0
+64,Bowen High School,"2710 E 89th St, Chicago, IL 60617",58.0,47.0,48.0,67.0,45.0,0.5724943216325322,43572.0
+65,Bret Harte Elementary School,"1556 E 56th St, Chicago, IL 60637",70.0,53.0,54.0,67.0,46.0,0.30732959991793546,30244.0
+66,Brian Piccolo Elementary Specialty School,"1040 N Keeler Ave, Chicago, IL 60651",83.0,79.0,74.0,55.0,71.0,-0.6032596170267946,41711.0
+67,Bridgescape Academy Humboldt Park,"2421 W Division, Chicago, IL 60622",44.0,49.0,37.0,,71.0,0.526992382544089,54344.0
+68,Brighton Park Elementary School,"3825 S Washtenaw Ave, Chicago, IL 60632",52.0,46.0,57.0,42.0,25.0,0.6610436525235714,46811.0
+69,Bronzeville Scholastic Academy High School,"4934 S Wabash Ave, Chicago, IL 60615",71.0,24.0,24.0,30.0,43.0,0.6774822456868288,41344.0
+70,Burnham Elementary Inclusive Academy,"9928 S Crandon Ave, Chicago, IL 60617",70.0,31.0,42.0,50.0,45.0,0.7019894125318893,43572.0
+71,Burnside Elementary Scholastic Academy,"650 E 91st Pl, Chicago, IL 60619",81.0,44.0,49.0,46.0,59.0,0.47497749808584827,42754.0
+72,CICS - Avalon/South Shore,"1501 E 83rd Pl, Chicago, IL 60619",92.0,58.0,60.0,46.0,40.0,0.2053205342436776,42754.0
+73,CICS - Basil,"1816 W Garfield Blvd, Chicago, IL 60609",71.0,47.0,39.0,31.0,44.0,0.6642234143481661,31357.0
+74,CICS - Bucktown,"2235 N Hamilton Ave, Chicago, IL 60647",71.0,82.0,68.0,80.0,49.0,-0.5926390052931606,46572.0
+75,CICS - ChicagoQuest North,"1443 N Ogden Ave, Chicago, IL 60610",89.0,82.0,53.0,76.0,72.0,-0.594506601629745,70682.0
+76,CICS - Irving Park,"3820 N Spaulding Ave, Chicago, IL 60618",59.0,76.0,58.0,72.0,58.0,-0.3489666954371652,55303.0
+77,CICS - Lloyd Bond,"13300 S Langley Ave, Chicago, IL 60827",74.0,54.0,48.0,33.0,49.0,0.5885051838863427,39986.0
+78,CICS - Longwood,"1309 W 95th St, Chicago, IL 60643",41.0,64.0,61.0,47.0,12.0,0.4664724859505884,62868.0
+79,CICS - Loomis Primary,"9535 S Loomis St, Chicago, IL 60643",,53.0,64.0,50.0,,0.4028250953036321,62868.0
+80,CICS - Northtown,"3900 W Peterson Ave, Chicago, IL 60659",88.0,94.0,89.0,93.0,83.0,-0.693403040147505,55851.0
+81,CICS - Prairie,"11530 S Prairie Ave, Chicago, IL 60628",32.0,51.0,47.0,49.0,30.0,0.6331608879049255,47232.0
+82,CICS - Ralph Ellison,"1817 W 80th St, Chicago, IL 60620",77.0,52.0,53.0,56.0,58.0,0.27755936323564906,45717.0
+83,CICS - Washington Park,"110 E 61st St, Chicago, IL 60637",94.0,61.0,47.0,41.0,48.0,0.2604881778163456,30244.0
+84,CICS - West Belden,"2245 N Mcvicker Ave, Chicago, IL 60639",73.0,68.0,47.0,78.0,64.0,-0.4225743252602427,50923.0
+85,CICS - Wrightwood,"8130 S California Ave, Chicago, IL 60652",80.0,86.0,73.0,80.0,36.0,-0.49974404340516565,64997.0
+86,Calmeca Academy of Fine Arts and Dual Language,"3456 W 38th St, Chicago, IL 60632",74.0,64.0,61.0,75.0,64.0,-0.5398303611755337,46811.0
+87,Camelot - Chicago Excel Academy,"1257 W 111th St, Chicago, IL 60643",82.0,69.0,38.0,48.0,63.0,0.10427880538556582,62868.0
+88,Camelot Excel - Englewood HS,"7141 S Morgan, Chicago, IL 60621",92.0,73.0,66.0,43.0,77.0,-0.3742553484396248,23875.0
+89,Camelot Excel - Southwest HS,"7014 S Washtenaw Ave, Chicago, IL 60629",82.0,72.0,,,72.0,-0.7100150834746222,50099.0
+90,Camelot Safe Academy ES and HS,"7877 S Coles Ave, Chicago, IL 60649",99.0,99.0,87.0,,83.0,-0.6829052320202356,35616.0
+91,Carl Schurz High School,"3601 N Milwaukee Ave, Chicago, IL 60641",67.0,54.0,47.0,45.0,51.0,0.5957165254047557,54544.0
+92,Carl von Linne Elementary School,"3221 N Sacramento Ave, Chicago, IL 60618",98.0,80.0,75.0,82.0,75.0,-0.7365897474161699,55303.0
+93,Carrie Jacobs Bond Elementary School,"7050 S May St, Chicago, IL 60621",78.0,30.0,29.0,36.0,91.0,0.33945842956531364,23875.0
+94,Carroll-Rosenwald Specialty Elementary School,"2929 W 83rd St, Chicago, IL 60652",99.0,86.0,73.0,93.0,92.0,-0.668062487251108,64997.0
+95,Carter G Woodson South Elementary School,"4414 S Evans Ave, Chicago, IL 60653",90.0,46.0,43.0,53.0,61.0,0.249888047116507,18464.0
+96,Catalyst Elementary Charter School - Circle Rock,"5608 W Washington Blvd, Chicago, IL 60644",92.0,72.0,68.0,68.0,61.0,-0.643942629101005,35248.0
+97,Catalyst Maria Charter Elementary School,"6727 S California Ave, Chicago, IL 60629",57.0,64.0,55.0,68.0,31.0,0.3631260726740602,50099.0
+98,Catalyst Maria Charter High School,"6727 S California Ave, Chicago, IL 60629",61.0,47.0,49.0,61.0,50.0,0.580562971000058,50099.0
+99,Cesar E Chavez Multicultural Academic Center ES,"4747 S Marshfield Ave, Chicago, IL 60609",70.0,69.0,69.0,69.0,51.0,-0.3794347109672156,31357.0
+100,Charles Allen Prosser Career Academy High School,"2148 N Long Ave, Chicago, IL 60639",86.0,55.0,36.0,55.0,65.0,0.21716386733371928,50923.0
+101,Charles Evans Hughes Elementary School,"4247 W 15th St, Chicago, IL 60623",81.0,57.0,58.0,46.0,54.0,0.24750826238006576,34670.0
+102,Charles G Hammond Elementary School,"2819 W 21st Pl, Chicago, IL 60623",49.0,50.0,52.0,67.0,36.0,0.5506383524077236,34670.0
+103,Charles Gates Dawes Elementary School,"3810 W 81st Pl, Chicago, IL 60652",93.0,82.0,72.0,70.0,57.0,-0.6423076173613799,64997.0
+104,Charles H Wacker Elementary School,"9746 S Morgan St, Chicago, IL 60643",89.0,42.0,43.0,53.0,82.0,0.05730736614360273,62868.0
+105,Charles Kozminski Elementary Community Academy,"936 E 54th St, Chicago, IL 60615",63.0,60.0,56.0,66.0,35.0,0.38132643147671696,41344.0
+106,Charles N Holden Elementary School,"1104 W 31st St, Chicago, IL 60608",77.0,53.0,39.0,55.0,58.0,0.4369030819652846,33821.0
+107,Charles P Caldwell Academy of Math & Science ES,"8546 S Cregier Ave, Chicago, IL 60617",96.0,75.0,75.0,81.0,88.0,-0.7121836469664157,43572.0
+108,Charles P Steinmetz College Preparatory HS,"3030 N Mobile Ave, Chicago, IL 60634",69.0,80.0,60.0,82.0,50.0,-0.4974906180891138,62214.0
+109,Charles R Darwin Elementary School,"3116 W Belden Ave, Chicago, IL 60647",75.0,64.0,57.0,66.0,60.0,-0.33912808902067915,46572.0
+110,Charles R Henderson Elementary School,"5650 S Wolcott Ave, Chicago, IL 60636",78.0,56.0,57.0,44.0,44.0,0.43764291349210105,33080.0
+111,Charles S Brownell Elementary School,"6741 S Michigan Ave, Chicago, IL 60637",69.0,40.0,42.0,,52.0,0.6507476584792239,30244.0
+112,Charles S Deneen Elementary School,"7240 S Wabash Ave, Chicago, IL 60619",97.0,75.0,65.0,78.0,84.0,-0.7092073261712049,42754.0
+113,Charles Sumner Math & Science Community Acad ES,"4320 W 5th Ave, Chicago, IL 60624",77.0,68.0,63.0,71.0,42.0,-0.26618936806662313,28695.0
+114,Charles W Earle Elementary School,"2040 W 62nd St, Chicago, IL 60636",55.0,35.0,37.0,49.0,34.0,0.7273463597954217,33080.0
+115,Chicago Academy Elementary School,"3400 N Austin Ave, Chicago, IL 60634",75.0,59.0,54.0,63.0,46.0,0.1562851125692546,62214.0
+116,Chicago Academy High School,"3400 N Austin Ave, Chicago, IL 60634",76.0,60.0,54.0,52.0,57.0,0.1493077271350779,62214.0
+117,Chicago Collegiate Charter School,"11816 S Indiana, Chicago, IL 60628",45.0,43.0,40.0,45.0,25.0,0.7109750191056018,47232.0
+118,Chicago High School for Agricultural Sciences,"3857 W 111th St, Chicago, IL 60655",64.0,74.0,66.0,86.0,63.0,-0.4958281107999499,73296.0
+119,Chicago High School for the Arts (ChiArts),"2714 W Augusta Blvd, Chicago, IL 60622",70.0,34.0,24.0,53.0,60.0,0.6063315695344679,54344.0
+120,Chicago Math and Science Academy Charter School,"7212 N Clark St, Chicago, IL 60626",75.0,60.0,53.0,65.0,53.0,0.01812961428979757,38951.0
+121,Chicago Military Academy High School,"3519 S Giles Ave, Chicago, IL 60653",75.0,54.0,60.0,67.0,44.0,0.12280594580976574,18464.0
+122,Chicago Technology Academy High School,"1301 W 14th St, Chicago, IL 60608",65.0,78.0,64.0,67.0,64.0,-0.4848416889069093,33821.0
+123,Chicago Virtual Charter School,"38 S Peoria St, Chicago, IL 60607",57.0,57.0,43.0,60.0,59.0,0.42516818372216725,59427.0
+124,Chicago Vocational Career Academy High School,"2100 E 87th St, Chicago, IL 60617",82.0,60.0,56.0,60.0,55.0,-0.11704942229864193,43572.0
+125,Christian Ebinger Elementary School,"7350 W Pratt Ave, Chicago, IL 60631",81.0,85.0,76.0,95.0,60.0,-0.6591012643033055,67465.0
+126,Christian Fenger Academy High School,"11220 S Wallace St, Chicago, IL 60628",96.0,78.0,71.0,58.0,74.0,-0.6493807450376441,47232.0
+127,Christopher Columbus Elementary School,"1003 N Leavitt St, Chicago, IL 60622",95.0,86.0,72.0,97.0,82.0,-0.7148404782871317,54344.0
+128,Christopher House Charter School,"5235 W Belden Ave, Chicago, IL 60639",,56.0,52.0,78.0,,0.10066091499988258,50923.0
+129,Clara Barton Elementary School,"7650 S Wolcott Ave, Chicago, IL 60620",82.0,59.0,51.0,56.0,52.0,0.17953419867030435,45717.0
+130,Claremont Academy Elementary School,"2300 W 64th St, Chicago, IL 60636",97.0,66.0,60.0,62.0,80.0,-0.549046496735028,33080.0
+131,Collins Academy High School,"1313 S Sacramento Dr, Chicago, IL 60623",89.0,74.0,68.0,45.0,80.0,-0.4557807855144135,34670.0
+132,Columbia Explorers Elementary Academy,"4520 S Kedzie Ave, Chicago, IL 60632",75.0,65.0,69.0,61.0,54.0,-0.35113757857879874,46811.0
+133,Consuella B York Alternative HS,"2700 S California Ave, Chicago, IL 60608",64.0,59.0,64.0,40.0,40.0,0.4797855430388816,33821.0
+134,Countee Cullen Elementary School,"10650 S Eberhart Ave, Chicago, IL 60628",98.0,63.0,58.0,36.0,70.0,-0.15091935397581138,47232.0
+135,Crown Community Academy of Fine Arts Center ES,"2128 S Saint Louis Ave, Chicago, IL 60623",92.0,75.0,65.0,66.0,86.0,-0.6433080153466609,34670.0
+136,Cyrus H McCormick Elementary School,"2712 S Sawyer Ave, Chicago, IL 60623",,62.0,64.0,71.0,,-0.33215968747576163,34670.0
+137,Daniel Boone Elementary School,"6710 N Washtenaw Ave, Chicago, IL 60645",86.0,79.0,67.0,73.0,62.0,-0.7142568166206446,52022.0
+138,Daniel C Beard Elementary School,"6445 W Strong St, Chicago, IL 60656",,92.0,83.0,99.0,,-0.6726517026448526,59157.0
+139,Daniel Hale Williams Prep School of Medicine,"4934 S Wabash Ave, Chicago, IL 60615",88.0,89.0,80.0,95.0,62.0,-0.719592831612821,41344.0
+140,Daniel J Corkery Elementary School,"2510 S Kildare Ave, Chicago, IL 60623",64.0,54.0,46.0,70.0,35.0,0.48936910655734217,34670.0
+141,Daniel R Cameron Elementary School,"1234 N Monticello Ave, Chicago, IL 60651",95.0,68.0,63.0,65.0,58.0,-0.5684100885752802,41711.0
+142,Daniel S Wentworth Elementary School,"1340 W 71st St, Chicago, IL 60636",67.0,37.0,48.0,43.0,33.0,0.698026692152094,33080.0
+143,Daniel Webster Elementary School,"4055 W Arthington St, Chicago, IL 60624",82.0,52.0,52.0,45.0,85.0,-0.016678139273919857,28695.0
+144,David G Farragut Career Academy High School,"2345 S Christiana Ave, Chicago, IL 60623",70.0,55.0,50.0,54.0,58.0,0.3932530369361683,34670.0
+145,DeVry University Advantage Academy HS,"3300 N Campbell Ave, Chicago, IL 60618",85.0,92.0,82.0,,85.0,-0.7090079656605229,55303.0
+146,DeWitt Clinton Elementary School,"6110 N Fairfield Ave, Chicago, IL 60659",98.0,79.0,71.0,80.0,94.0,-0.6819831338623482,55851.0
+147,Dewey Elementary Academy of Fine Arts,"5415 S Union Ave, Chicago, IL 60609",91.0,78.0,74.0,74.0,80.0,-0.7006500737670462,31357.0
+148,Disney II Magnet High School,"3900 N Lawndale Ave, Chicago, IL 60618",74.0,76.0,58.0,93.0,58.0,-0.6105751631027669,55303.0
+149,Disney II Magnet School,"3815 N Kedvale Ave, Chicago, IL 60641",92.0,86.0,67.0,94.0,68.0,-0.7283172054437121,54544.0
+150,Donald Morrill Math & Science Elementary School,"6011 S Rockwell St, Chicago, IL 60629",44.0,21.0,15.0,35.0,31.0,0.6695457628814342,50099.0
+151,Douglas Taylor Elementary School,"9912 S Avenue H, Chicago, IL 60617",46.0,32.0,8.0,51.0,33.0,0.6620013034280808,43572.0
+152,Dr Martin Luther King Jr College Prep HS,"4445 S Drexel Blvd, Chicago, IL 60653",81.0,41.0,39.0,53.0,56.0,0.45054181221259787,18464.0
+153,Dr Jorge Prieto Math and Science,"2231 N Central Ave, Chicago, IL 60639",65.0,46.0,39.0,51.0,26.0,0.70334190299451,50923.0
+154,Dr. Martin L. King Jr Academy of Social Justice,"644 W 71st St, Chicago, IL 60621",52.0,42.0,45.0,29.0,47.0,0.6485170449943353,23875.0
+155,Dunne Technology Academy,"10845 S Union Ave, Chicago, IL 60628",99.0,84.0,68.0,71.0,99.0,-0.6511317632323591,47232.0
+156,Durkin Park Elementary School,"8445 S Kolin Ave, Chicago, IL 60652",74.0,67.0,68.0,75.0,47.0,-0.4023970881347673,64997.0
+157,Dvorak Technology Academy,"3615 W 16th St, Chicago, IL 60623",90.0,71.0,62.0,46.0,67.0,-0.35218615613569687,34670.0
+158,EPIC Academy Charter High School,"8255 S Houston Ave, Chicago, IL 60617",87.0,59.0,57.0,60.0,63.0,-0.3153686195194839,43572.0
+159,Edgar Allan Poe Elementary Classical School,"10538 S Langley Ave, Chicago, IL 60628",90.0,60.0,46.0,89.0,49.0,-0.3723367067546997,47232.0
+160,Edgebrook Elementary School,"6525 N Hiawatha Ave, Chicago, IL 60646",70.0,58.0,63.0,70.0,57.0,-0.19742707124626002,74229.0
+161,Edison Park Elementary School,"6220 N Olcott Ave, Chicago, IL 60631",69.0,35.0,49.0,72.0,56.0,0.3325574122976992,67465.0
+162,Edmond Burke Elementary School,"5356 S King Dr, Chicago, IL 60615",74.0,66.0,60.0,58.0,59.0,-0.22824696049205592,41344.0
+163,Edward A Bouchet Math & Science Academy ES,"7355 S Jeffery Blvd, Chicago, IL 60649",96.0,87.0,71.0,77.0,69.0,-0.7284742874939232,35616.0
+164,Edward Beasley Elementary Magnet Academic Center,"5255 S State St, Chicago, IL 60609",82.0,70.0,51.0,78.0,45.0,-0.3323629849353201,31357.0
+165,Edward Coles Elementary Language Academy,"8441 S Yates Blvd, Chicago, IL 60617",87.0,56.0,48.0,36.0,36.0,0.5079109803417988,43572.0
+166,Edward Everett Elementary School,"3419 S Bell Ave, Chicago, IL 60608",,83.0,71.0,90.0,,-0.7097073771180484,33821.0
+167,Edward Jenner Elementary Academy of the Arts,"1119 N Cleveland Ave, Chicago, IL 60610",53.0,34.0,30.0,45.0,40.0,0.6575732948246883,70682.0
+168,Edward K Ellington Elementary School,"243 N Parkside Ave, Chicago, IL 60644",92.0,66.0,63.0,59.0,95.0,-0.5207196860051553,35248.0
+169,Edward N Hurley Elementary School,"3849 W 69th Pl, Chicago, IL 60629",60.0,62.0,48.0,66.0,38.0,0.44334134571403516,50099.0
+170,Edward Tilden Career Community Academy HS,"4747 S Union Ave, Chicago, IL 60609",61.0,72.0,60.0,43.0,49.0,0.279687763804482,31357.0
+171,Edward White Elementary Career Academy,"1136 W 122nd St, Chicago, IL 60643",69.0,53.0,52.0,50.0,44.0,0.5209227274565944,62868.0
+172,Edwin G. Foreman College and Career Academy,"3235 N Leclaire Ave, Chicago, IL 60641",73.0,35.0,23.0,39.0,59.0,0.6249907358298247,54544.0
+173,Eli Whitney Elementary School,"2815 S Komensky Ave, Chicago, IL 60623",64.0,46.0,39.0,52.0,39.0,0.7107775480061078,34670.0
+174,Eliza Chappell Elementary School,"2135 W Foster Ave, Chicago, IL 60625",80.0,80.0,77.0,94.0,60.0,-0.7063528886125016,53288.0
+175,Elizabeth H Sutherland Elementary School,"10015 S Leavitt St, Chicago, IL 60643",59.0,58.0,65.0,81.0,41.0,-0.041828476187279896,62868.0
+176,Ella Flagg Young Elementary School,"1434 N Parkside Ave, Chicago, IL 60651",71.0,64.0,58.0,74.0,39.0,-0.05309982757558292,41711.0
+177,Ellen H Richards Career Academy High School,"5009 S Laflin St, Chicago, IL 60609",46.0,50.0,59.0,37.0,42.0,0.6072467129203825,31357.0
+178,Ellen Mitchell Elementary School,"2233 W Ohio St, Chicago, IL 60612",87.0,91.0,81.0,94.0,72.0,-0.7062070074928989,31941.0
+179,Emil G Hirsch Metropolitan High School,"7740 S Ingleside Ave, Chicago, IL 60619",78.0,55.0,44.0,51.0,80.0,0.05547251363593403,42754.0
+180,Emiliano Zapata Elementary Academy,"2728 S Kostner Ave, Chicago, IL 60623",92.0,71.0,71.0,73.0,69.0,-0.6954667269127023,34670.0
+181,Emmett Louis Till Math and Science Academy,"6543 S Champlain Ave, Chicago, IL 60637",93.0,71.0,58.0,60.0,87.0,-0.5319766981320622,30244.0
+182,Enrico Tonti Elementary School,"5815 S Homan Ave, Chicago, IL 60629",,38.0,38.0,46.0,,0.7037452645492817,50099.0
+183,Eric Solorio Academy High School,"5400 S St Louis Ave, Chicago, IL 60632",80.0,81.0,70.0,64.0,70.0,-0.6771755951280255,46811.0
+184,Erie Elementary Charter School,"1405 N Washtenaw Ave, Chicago, IL 60622",47.0,38.0,33.0,44.0,33.0,0.7234829495728962,54344.0
+185,Ernst Prussing Elementary School,"4650 N Menard Ave, Chicago, IL 60630",62.0,53.0,51.0,63.0,34.0,0.5170125019059892,60553.0
+186,Esmond Elementary School,"1865 W Montvale Ave, Chicago, IL 60643",80.0,75.0,71.0,81.0,42.0,-0.5236392129543179,62868.0
+187,Eugene Field Elementary School,"7019 N Ashland Ave, Chicago, IL 60626",87.0,91.0,74.0,81.0,47.0,-0.6577325815563554,38951.0
+188,Everett McKinley Dirksen Elementary School,"8601 W Foster Ave, Chicago, IL 60656",48.0,56.0,55.0,55.0,31.0,0.5605160620977916,59157.0
+189,Evergreen Academy Middle School,"3537 S Paulina St, Chicago, IL 60609",97.0,92.0,93.0,87.0,69.0,-0.682238125365405,31357.0
+190,Fairfield Elementary Academy,"6201 S Fairfield Ave, Chicago, IL 60629",63.0,32.0,39.0,48.0,32.0,0.7316508076125346,50099.0
+191,Federico Garcia Lorca Elementary School,"3231 N Springfield Ave, Chicago, IL 60618",75.0,64.0,58.0,62.0,52.0,-0.1315985887947225,55303.0
+192,Ferdinand Peck Elementary School,"3826 W 58th St, Chicago, IL 60629",,85.0,75.0,92.0,,-0.7232442463607704,50099.0
+193,Fernwood Elementary School,"10041 S Union Ave, Chicago, IL 60628",91.0,67.0,65.0,56.0,93.0,-0.5316794091833568,47232.0
+194,Florence Nightingale Elementary School,"5250 S Rockwell St, Chicago, IL 60632",75.0,57.0,60.0,73.0,50.0,-0.1985945461751287,46811.0
+195,Fort Dearborn Elementary School,"9025 S Throop St, Chicago, IL 60620",71.0,50.0,47.0,30.0,43.0,0.6552570938008749,45717.0
+196,Foster Park Elementary School,"8530 S Wood St, Chicago, IL 60620",89.0,58.0,54.0,67.0,89.0,-0.48330678087071033,45717.0
+197,Foundations College Preparatory Charter School,"1233 W 109th Pl, Chicago, IL 60643",90.0,69.0,65.0,51.0,45.0,-0.20442985169392752,62868.0
+198,Francis M McKay Elementary School,"6901 S Fairfield Ave, Chicago, IL 60629",88.0,76.0,68.0,60.0,43.0,-0.4329687177454245,50099.0
+199,Francis W Parker Elementary Community Academy,"6800 S Stewart Ave, Chicago, IL 60621",78.0,81.0,65.0,60.0,36.0,-0.21274674773450272,23875.0
+200,Francisco I Madero Middle School,"3202 W 28th St, Chicago, IL 60623",86.0,84.0,85.0,75.0,53.0,-0.6608634248211425,34670.0
+201,Frank I Bennett Elementary School,"10115 S Prairie Ave, Chicago, IL 60628",97.0,68.0,67.0,54.0,45.0,-0.32863127409825577,47232.0
+202,Frank L Gillespie Elementary School,"9301 S State St, Chicago, IL 60619",83.0,66.0,62.0,60.0,69.0,-0.5064241036693663,42754.0
+203,Frank W Gunsaulus Elementary Scholastic Academy,"4420 S Sacramento Ave, Chicago, IL 60632",80.0,76.0,56.0,84.0,54.0,-0.6138105678458402,46811.0
+204,Frank W Reilly Elementary School,"3650 W School St, Chicago, IL 60618",57.0,33.0,32.0,55.0,41.0,0.7105476236642863,55303.0
+205,Franklin Elementary Fine Arts Center,"225 W Evergreen Ave, Chicago, IL 60610",73.0,63.0,50.0,82.0,40.0,-0.09044164657618436,70682.0
+206,Franz Peter Schubert Elementary School,"2727 N Long Ave, Chicago, IL 60639",,60.0,53.0,80.0,,-0.17184819941969526,50923.0
+207,Frazier Preparatory Academy Charter School,"3711 W Douglas Blvd, Chicago, IL 60623",46.0,18.0,19.0,31.0,14.0,0.6434254043558357,34670.0
+208,Frazier Prospective IB Magnet ES,"4027 W Grenshaw St, Chicago, IL 60624",89.0,68.0,52.0,64.0,62.0,-0.39669119491812643,28695.0
+209,Frederic Chopin Elementary School,"2450 W Rice St, Chicago, IL 60622",41.0,45.0,52.0,50.0,18.0,0.6276562802837649,54344.0
+210,Frederick A Douglass Academy High School,"543 N Waller Ave, Chicago, IL 60644",74.0,79.0,61.0,56.0,71.0,-0.4745774849793194,35248.0
+211,Frederick Funston Elementary School,"2010 N Central Park Ave, Chicago, IL 60647",72.0,47.0,43.0,61.0,58.0,0.4733205599052699,46572.0
+212,Frederick Stock Elementary School,"7507 W Birchwood Ave, Chicago, IL 60631",,77.0,66.0,98.0,,-0.6409251797603022,67465.0
+213,Friedrich L. Jahn Elementary of the Fine Arts,"3149 N Wolcott Ave, Chicago, IL 60657",59.0,36.0,32.0,53.0,50.0,0.5830473711753441,74895.0
+214,Friedrich W von Steuben Metropolitan Science HS,"5039 N Kimball Ave, Chicago, IL 60625",75.0,68.0,48.0,74.0,63.0,-0.40673890646923844,53288.0
+215,Gage Park High School,"5630 S Rockwell St, Chicago, IL 60629",49.0,62.0,51.0,72.0,40.0,0.3676151570506374,50099.0
+216,Galileo Math & Science Scholastic Academy ES,"820 S Carpenter St, Chicago, IL 60607",68.0,46.0,56.0,57.0,38.0,0.5421803144076655,59427.0
+217,Genevieve Melody Elementary School,"3937 W Wilcox St, Chicago, IL 60624",82.0,56.0,50.0,48.0,67.0,0.14262217921163672,28695.0
+218,George Armstrong International Studies ES,"2110 W Greenleaf Ave, Chicago, IL 60645",86.0,91.0,77.0,87.0,58.0,-0.7191125193032016,52022.0
+219,George B McClellan Elementary School,"3527 S Wallace St, Chicago, IL 60609",65.0,68.0,58.0,78.0,37.0,-0.06445868971718074,31357.0
+220,George B Swift Elementary Specialty School,"5900 N Winthrop Ave, Chicago, IL 60660",66.0,45.0,41.0,66.0,40.0,0.6245477934500592,45169.0
+221,George F Cassell Elementary School,"11314 S Spaulding Ave, Chicago, IL 60655",90.0,63.0,61.0,72.0,71.0,-0.5087361397218795,73296.0
+222,George H Corliss High School,"821 E 103rd St, Chicago, IL 60628",65.0,61.0,51.0,55.0,45.0,0.48806370087459283,47232.0
+223,George Leland Elementary School,"512 S Lavergne Ave, Chicago, IL 60644",72.0,91.0,83.0,90.0,28.0,-0.4607399384326616,35248.0
+224,George M Pullman Elementary School,"11311 S Forrestville Ave, Chicago, IL 60628",78.0,40.0,45.0,57.0,55.0,0.5240269921727884,47232.0
+225,George Manierre Elementary School,"1420 N Hudson Ave, Chicago, IL 60610",64.0,50.0,44.0,52.0,36.0,0.5759286653668744,70682.0
+226,George Rogers Clark Elementary School,"1045 S Monitor Ave, Chicago, IL 60644",98.0,83.0,68.0,93.0,86.0,-0.7005387494845366,35248.0
+227,George W Curtis Elementary School,"32 E 115th St, Chicago, IL 60628",81.0,63.0,65.0,61.0,46.0,-0.20428209025774596,47232.0
+228,George W Tilton Elementary School,"223 N Keeler Ave, Chicago, IL 60624",75.0,67.0,60.0,54.0,59.0,-0.13795197990608193,28695.0
+229,George Washington Carver Military Academy HS,"13100 S Doty Ave, Chicago, IL 60827",75.0,74.0,59.0,82.0,56.0,-0.5948416785897651,39986.0
+230,George Washington Carver Primary School,"901 E 133rd Pl, Chicago, IL 60827",61.0,26.0,4.0,8.0,33.0,0.6028223697117691,39986.0
+231,George Washington Elementary School,"3611 E 114th St, Chicago, IL 60617",71.0,61.0,56.0,68.0,51.0,-0.03853651377697303,43572.0
+232,George Washington High School,"3535 E 114th St, Chicago, IL 60617",64.0,55.0,38.0,56.0,53.0,0.5964971429883373,43572.0
+233,George Westinghouse College Prep,"3223 W Franklin Blvd, Chicago, IL 60624",91.0,82.0,76.0,89.0,72.0,-0.711306464451916,28695.0
+234,Gerald Delgado Kanoon Elementary Magnet School,"2233 S Kedzie Ave, Chicago, IL 60623",78.0,70.0,53.0,74.0,58.0,-0.46291780900588175,34670.0
+235,Great Lakes Academy Charter School,"8401 S Saginaw Ave, Chicago, IL 60617",,48.0,48.0,53.0,,0.6653528877636359,43572.0
+236,Greater Lawndale High School For Social Justice,"3120 S Kostner Ave, Chicago, IL 60623",83.0,85.0,66.0,74.0,56.0,-0.6615855082617466,34670.0
+237,Grover Cleveland Elementary School,"3121 W Byron St, Chicago, IL 60618",76.0,58.0,57.0,65.0,41.0,0.16462891945838007,55303.0
+238,Gurdon S Hubbard High School,"6200 S Hamlin Ave, Chicago, IL 60629",69.0,72.0,65.0,74.0,53.0,-0.49555432030404195,50099.0
+239,Gwendolyn Brooks College Preparatory Academy HS,"250 E 111th St, Chicago, IL 60628",72.0,66.0,52.0,71.0,51.0,-0.1770317207266304,47232.0
+240,Hannah G Solomon Elementary School,"6206 N Hamlin Ave, Chicago, IL 60659",72.0,44.0,42.0,57.0,58.0,0.520838908494295,55851.0
+241,Hanson Park Elementary School,"5411 W Fullerton Ave, Chicago, IL 60639",60.0,41.0,49.0,57.0,32.0,0.6832464843669035,50923.0
+242,Harold Washington Elementary School,"9130 S University Ave, Chicago, IL 60619",58.0,49.0,44.0,46.0,29.0,0.7192262475257231,42754.0
+243,Harriet Beecher Stowe Elementary School,"3444 W Wabansia Ave, Chicago, IL 60647",60.0,35.0,38.0,56.0,43.0,0.7239597493501334,46572.0
+244,Harriet E Sayre Elementary Language Academy,"1850 N Newland Ave, Chicago, IL 60707",66.0,26.0,22.0,51.0,52.0,0.6387079704947054,60345.0
+245,Hawthorne Elementary Scholastic Academy,"3319 N Clifton Ave, Chicago, IL 60657",76.0,51.0,51.0,75.0,47.0,0.06749322972729904,74895.0
+246,Helen M Hefferan Elementary School,"4409 W Wilcox St, Chicago, IL 60624",97.0,61.0,60.0,57.0,92.0,-0.44546676739775265,28695.0
+247,Helen Peirce International Studies ES,"1423 W Bryn Mawr Ave, Chicago, IL 60660",78.0,54.0,43.0,73.0,53.0,0.13134137650691655,45169.0
+248,Helge A Haugan Elementary School,"4540 N Hamlin Ave, Chicago, IL 60625",87.0,65.0,51.0,57.0,58.0,-0.20352745736673145,53288.0
+249,Henry Clay Elementary School,"13231 S Burley Ave, Chicago, IL 60633",63.0,48.0,39.0,54.0,42.0,0.7048298636809954,50754.0
+250,Henry D Lloyd Elementary School,"2103 N Lamon Ave, Chicago, IL 60639",,53.0,53.0,59.0,,0.5067425320727219,50923.0
+251,Henry H Nash Elementary School,"4837 W Erie St, Chicago, IL 60644",94.0,66.0,52.0,62.0,88.0,-0.4921752567264963,35248.0
+252,Henry O Tanner Elementary School,"7350 S Evans Ave, Chicago, IL 60619",89.0,71.0,59.0,63.0,63.0,-0.5662110113671542,42754.0
+253,Henry R Clissold Elementary School,"2350 W 110th Pl, Chicago, IL 60643",57.0,45.0,40.0,60.0,30.0,0.6395060405682139,62868.0
+254,Hiram H Belding Elementary School,"4257 N Tripp Ave, Chicago, IL 60641",72.0,78.0,75.0,90.0,54.0,-0.6447187499382988,54544.0
+255,Hope College Preparatory High School,"5515 S Lowe Ave, Chicago, IL 60621",72.0,59.0,61.0,45.0,66.0,0.11038818821576508,23875.0
+256,Hope Institute Learning Academy,"1628 W Washington, Chicago, IL 60612",,89.0,84.0,95.0,,-0.681806468108533,31941.0
+257,Horace Greeley Elementary School,"832 W Sheridan Rd, Chicago, IL 60613",60.0,70.0,59.0,81.0,25.0,0.028260724823105248,63528.0
+258,Horace Mann Elementary School,"8050 S Chappel Ave, Chicago, IL 60617",95.0,71.0,65.0,60.0,57.0,-0.5473738451344365,43572.0
+259,Horizon Science Academy Southwest Chicago Charter,"5401 S Western Ave, Chicago, IL 60609",38.0,32.0,31.0,45.0,20.0,0.6693009337150402,31357.0
+260,Hyde Park Academy High School,"6220 S Stony Island Ave, Chicago, IL 60637",64.0,47.0,43.0,37.0,49.0,0.6690030895504746,30244.0
+261,Hyman G Rickover Naval Academy High School,"5900 N Glenwood Ave, Chicago, IL 60660",68.0,62.0,59.0,78.0,63.0,-0.4330589252300915,45169.0
+262,Ida B Wells Preparatory Elementary Academy,"249 E 37th St, Chicago, IL 60653",90.0,69.0,55.0,68.0,43.0,-0.22975939025012565,18464.0
+263,Infinity Math Science and Technology High School,"3120 S Kostner Ave, Chicago, IL 60623",72.0,63.0,52.0,62.0,56.0,0.03811483594435027,34670.0
+264,Instituto Health Sciences Career Academy,"2520 S Western Ave, Chicago, IL 60608",65.0,31.0,26.0,43.0,51.0,0.6899536576222203,33821.0
+265,Inter-American Elementary Magnet School,"851 W Waveland Ave, Chicago, IL 60613",70.0,49.0,38.0,85.0,20.0,0.34897792763954355,63528.0
+266,Intrinsic Charter School,"4540 W Belmont Ave, Chicago, IL 60641",75.0,53.0,45.0,84.0,66.0,-0.25111740128639537,54544.0
+267,Ira F Aldridge Elementary School,"630 E 131st St, Chicago, IL 60827",87.0,71.0,58.0,70.0,37.0,-0.2976257362745843,39986.0
+268,Irene C. Hernandez Middle School for the Advancement of Science,"3510 W 55th St, Chicago, IL 60632",66.0,44.0,37.0,48.0,36.0,0.7383135749629584,46811.0
+269,Irma C Ruiz Elementary School,"2410 S Leavitt St, Chicago, IL 60608",87.0,91.0,78.0,94.0,53.0,-0.6751855476457083,33821.0
+270,Irvin C Mollison Elementary School,"4415 S Dr Martin L King Jr Dr, Chicago, IL 60653",57.0,17.0,23.0,29.0,42.0,0.627403526877689,18464.0
+271,Isabelle C O'Keeffe Elementary School,"6940 S Merrill Ave, Chicago, IL 60649",82.0,35.0,45.0,37.0,69.0,0.46262525908807184,35616.0
+272,Jackie Robinson Elementary School,"4225 S Lake Park Ave, Chicago, IL 60653",,74.0,75.0,88.0,,-0.604109969612252,18464.0
+273,Jacob Beidler Elementary School,"3151 W Walnut St, Chicago, IL 60612",92.0,63.0,53.0,61.0,84.0,-0.44886041852634667,31941.0
+274,Jacqueline B Vaughn Occupational High School,"4355 N Linder Ave, Chicago, IL 60641",73.0,86.0,70.0,91.0,57.0,-0.6694110707967137,54544.0
+275,James B Farnsworth Elementary School,"5414 N Linder Ave, Chicago, IL 60630",60.0,84.0,76.0,89.0,38.0,-0.43466557385262433,60553.0
+276,James B McPherson Elementary School,"4728 N Wolcott Ave, Chicago, IL 60640",75.0,84.0,70.0,81.0,51.0,-0.6499635726866532,44410.0
+277,James G Blaine Elementary School,"1420 W Grace St, Chicago, IL 60613",66.0,64.0,68.0,89.0,43.0,-0.3487098464813316,63528.0
+278,James Hedges Elementary School,"4747 S Winchester Ave, Chicago, IL 60609",50.0,37.0,28.0,50.0,22.0,0.6905184323414514,31357.0
+279,James Madison Elementary School,"7433 S Dorchester Ave, Chicago, IL 60619",80.0,63.0,61.0,62.0,57.0,-0.3300939578759699,42754.0
+280,James Monroe Elementary School,"3651 W Schubert Ave, Chicago, IL 60647",65.0,66.0,58.0,63.0,39.0,0.2273075455654163,46572.0
+281,James N Thorp Elementary School,"8914 S Buffalo Ave, Chicago, IL 60617",82.0,48.0,49.0,53.0,67.0,0.22815229318462169,43572.0
+282,James Otis Elementary School,"525 N Armour St, Chicago, IL 60622",66.0,45.0,30.0,53.0,43.0,0.6963427024496724,54344.0
+283,James R Doolittle Jr Elementary School,"535 E 35th St, Chicago, IL 60616",49.0,31.0,22.0,15.0,22.0,0.6541817703721795,41111.0
+284,James Russell Lowell Elementary School,"3320 W Hirsch St, Chicago, IL 60651",65.0,72.0,60.0,75.0,49.0,-0.3368064914161936,41711.0
+285,James Shields Elementary School,"4250 S Rockwell St, Chicago, IL 60632",,70.0,61.0,72.0,,-0.5695131048650999,46811.0
+286,James Shields Middle School,"2611 W 48th St, Chicago, IL 60632",80.0,88.0,80.0,65.0,38.0,-0.4958314048009679,46811.0
+287,James Wadsworth Elementary School,"6650 S Ellis Ave, Chicago, IL 60637",86.0,52.0,52.0,47.0,60.0,0.24034762982367605,30244.0
+288,James Ward Elementary School,"2701 S Shields Ave, Chicago, IL 60616",59.0,70.0,69.0,84.0,37.0,-0.25256842852179484,41111.0
+289,James Weldon Johnson Elementary School,"1420 S Albany Ave, Chicago, IL 60623",89.0,83.0,66.0,51.0,58.0,-0.481178930801081,34670.0
+290,Jane A Neil Elementary School,"8555 S Michigan Ave, Chicago, IL 60619",60.0,50.0,44.0,49.0,35.0,0.7192622672986296,42754.0
+291,Jane Addams Elementary School,"10810 S Avenue H, Chicago, IL 60617",72.0,68.0,48.0,66.0,47.0,0.069942874028664,43572.0
+292,Jean Baptiste Beaubien Elementary School,"5025 N Laramie Ave, Chicago, IL 60630",78.0,58.0,63.0,74.0,57.0,-0.40036377673469037,60553.0
+293,Jensen Elementary Scholastic Academy,"3030 W Harrison St, Chicago, IL 60612",,67.0,57.0,64.0,,-0.19421925770685833,31941.0
+294,Jesse Owens Elementary Community Academy,"12302 S State St, Chicago, IL 60628",90.0,67.0,61.0,59.0,84.0,-0.5540712868254348,47232.0
+295,Jesse Sherwood Elementary School,"245 W 57th St, Chicago, IL 60621",94.0,63.0,56.0,77.0,85.0,-0.5415931480093351,23875.0
+296,Johann W von Goethe Elementary School,"2236 N Rockwell St, Chicago, IL 60647",64.0,74.0,66.0,83.0,36.0,-0.3145010470722386,46572.0
+297,John A Walsh Elementary School,"2015 S Peoria St, Chicago, IL 60608",66.0,61.0,42.0,73.0,33.0,0.3883671787989863,33821.0
+298,John B Drake Elementary School,"2710 S Dearborn St, Chicago, IL 60616",89.0,80.0,74.0,86.0,84.0,-0.7333116329259397,41111.0
+299,John B Murphy Elementary School,"3539 W Grace St, Chicago, IL 60618",88.0,37.0,38.0,67.0,75.0,0.10694900006346876,55303.0
+300,John Barry Elementary School,"2828 N Kilbourn Ave, Chicago, IL 60641",67.0,59.0,59.0,66.0,41.0,0.2268152035440027,54544.0
+301,John C Burroughs Elementary School,"3542 S Washtenaw Ave, Chicago, IL 60632",77.0,72.0,69.0,67.0,59.0,-0.5975647673384199,46811.0
+302,John C Coonley Elementary School,"4046 N Leavitt St, Chicago, IL 60618",73.0,78.0,69.0,98.0,56.0,-0.6377169006883088,55303.0
+303,John C Dore Elementary School,"6108 S Natoma Ave, Chicago, IL 60638",73.0,72.0,60.0,80.0,37.0,-0.3130024249230926,56616.0
+304,John Charles Haines Elementary School,"247 W 23rd Pl, Chicago, IL 60616",61.0,54.0,54.0,71.0,52.0,0.2618628763111627,41111.0
+305,John D Shoop Math-Science Technical Academy ES,"11140 S Bishop St, Chicago, IL 60643",93.0,67.0,66.0,53.0,89.0,-0.49085687577112797,62868.0
+306,John F Eberhart Elementary School,"3400 W 65th Pl, Chicago, IL 60629",87.0,49.0,57.0,62.0,52.0,0.05589824091648733,50099.0
+307,John F Kennedy High School,"6325 W 56th St, Chicago, IL 60638",71.0,42.0,30.0,57.0,50.0,0.6281825731949837,56616.0
+308,John Fiske Elementary School,"6020 S Langley Ave, Chicago, IL 60637",99.0,95.0,90.0,99.0,85.0,-0.6627331199339858,30244.0
+309,John Foster Dulles Elementary School,"6311 S Calumet Ave, Chicago, IL 60637",79.0,53.0,55.0,47.0,66.0,0.1928114962584122,30244.0
+310,John Greenleaf Whittier Elementary School,"1900 W 23rd St, Chicago, IL 60608",84.0,87.0,76.0,97.0,56.0,-0.6806462739680776,33821.0
+311,John H Hamline Elementary School,"4747 S Bishop St, Chicago, IL 60609",47.0,37.0,28.0,46.0,29.0,0.705079998481906,31357.0
+312,John H Kinzie Elementary School,"5625 S Mobile Ave, Chicago, IL 60638",85.0,88.0,72.0,89.0,64.0,-0.7272802884229784,56616.0
+313,John H Vanderpoel Elementary Magnet School,"9510 S Prospect Ave, Chicago, IL 60643",64.0,39.0,30.0,64.0,60.0,0.5202277163895821,62868.0
+314,John Hancock College Preparatory High School,"4034 W 56th St, Chicago, IL 60629",91.0,78.0,74.0,78.0,71.0,-0.7535729401184922,50099.0
+315,John Harvard Elementary School of Excellence,"7525 S Harvard, Chicago, IL 60620",64.0,69.0,66.0,48.0,35.0,0.3029518021836402,45717.0
+316,John Hay Elementary Community Academy,"1018 N Laramie Ave, Chicago, IL 60651",78.0,69.0,57.0,62.0,31.0,0.11515332258525839,41711.0
+317,John J Audubon Elementary School,"3500 N Hoyne Ave, Chicago, IL 60618",66.0,64.0,50.0,78.0,59.0,-0.24898106046614932,55303.0
+318,John J Pershing Elementary Humanities Magnet,"3200 S Calumet Ave, Chicago, IL 60616",95.0,67.0,50.0,69.0,77.0,-0.5568817285998712,41111.0
+319,John L Marsh Elementary School,"9822 S Exchange Ave, Chicago, IL 60617",71.0,50.0,53.0,60.0,54.0,0.39948130050386166,43572.0
+320,John M Harlan Community Academy High School,"9652 S Michigan Ave, Chicago, IL 60628",64.0,32.0,31.0,39.0,48.0,0.7226410855829376,47232.0
+321,John Marshall Metropolitan High School,"3250 W Adams St, Chicago, IL 60624",90.0,75.0,56.0,81.0,80.0,-0.6447192114540036,28695.0
+322,John Milton Gregory Elementary School,"3715 W Polk St, Chicago, IL 60624",81.0,76.0,70.0,49.0,60.0,-0.373993331266257,28695.0
+323,John Palmer Elementary School,"5051 N Kenneth Ave, Chicago, IL 60630",73.0,51.0,54.0,69.0,57.0,0.05644035696286,60553.0
+324,John Spry Elementary Community School,"2400 S Marshall Blvd, Chicago, IL 60623",66.0,49.0,46.0,62.0,42.0,0.5910925807685447,34670.0
+325,John T McCutcheon Elementary School,"4865 N Sheridan Rd, Chicago, IL 60640",98.0,75.0,70.0,63.0,89.0,-0.646196362475513,44410.0
+326,John T Pirie Fine Arts & Academic Center ES,"650 E 85th St, Chicago, IL 60619",79.0,73.0,61.0,61.0,47.0,-0.3150419279892667,42754.0
+327,John W Cook Elementary School,"8150 S Bishop St, Chicago, IL 60620",75.0,48.0,11.0,40.0,51.0,0.6075581076182761,45717.0
+328,John W Garvy Elementary School,"5225 N Oak Park Ave, Chicago, IL 60656",67.0,55.0,52.0,71.0,44.0,0.26924935403078876,59157.0
+329,John Whistler Elementary School,"11533 S Ada St, Chicago, IL 60643",85.0,62.0,65.0,79.0,60.0,-0.567960221909217,62868.0
+330,Johnnie Colemon Elementary Academy,"1441 W 119th St, Chicago, IL 60643",96.0,82.0,73.0,79.0,67.0,-0.7102658241008484,62868.0
+331,Jonathan Burr Elementary School,"1621 W Wabansia Ave, Chicago, IL 60622",94.0,84.0,76.0,88.0,80.0,-0.7351731485049028,54344.0
+332,Jonathan Y Scammon Elementary School,"4201 W Henderson St, Chicago, IL 60641",77.0,52.0,56.0,62.0,47.0,0.2646556807620275,54544.0
+333,Jordan Elementary Community School,"7414 N Wolcott Ave, Chicago, IL 60626",62.0,39.0,39.0,48.0,41.0,0.743695038614313,38951.0
+334,Jose De Diego Elementary Community Academy,"1313 N Claremont Ave, Chicago, IL 60622",69.0,75.0,67.0,75.0,42.0,-0.40082369046246635,54344.0
+335,Josefa Ortiz De Dominguez Elementary School,"3000 S Lawndale Ave, Chicago, IL 60623",,56.0,66.0,70.0,,-0.2870551670305689,34670.0
+336,Joseph Brennemann Elementary School,"4251 N Clarendon Ave, Chicago, IL 60613",,70.0,72.0,68.0,,-0.5449145172567244,63528.0
+337,Joseph E Gary Elementary School,"3740 W 31st St, Chicago, IL 60623",78.0,55.0,47.0,70.0,52.0,0.12381696920080394,34670.0
+338,Joseph Jungman Elementary School,"1746 S Miller St, Chicago, IL 60608",93.0,57.0,60.0,64.0,87.0,-0.4822923616479268,33821.0
+339,Joseph Kellman Corporate Community ES,"3030 W Arthington St, Chicago, IL 60612",71.0,65.0,46.0,72.0,33.0,0.2517411304806832,31941.0
+340,Joseph Lovett Elementary School,"6333 W Bloomingdale Ave, Chicago, IL 60639",92.0,68.0,56.0,78.0,59.0,-0.6156319342024215,50923.0
+341,Joseph Warren Elementary School,"9239 S Jeffery Ave, Chicago, IL 60617",88.0,64.0,61.0,46.0,66.0,-0.2414954037329024,43572.0
+342,Josephine C Locke Elementary School,"2828 N Oak Park Ave, Chicago, IL 60634",91.0,79.0,68.0,84.0,68.0,-0.7148232880204717,62214.0
+343,Joshua D Kershaw Elementary School,"6450 S Lowe Ave, Chicago, IL 60621",72.0,65.0,58.0,73.0,46.0,-0.14889425134830836,23875.0
+344,Josiah Pickard Elementary School,"2301 W 21st Pl, Chicago, IL 60608",78.0,81.0,80.0,93.0,59.0,-0.6807105873117367,33821.0
+345,Joyce Kilmer Elementary School,"6700 N Greenview Ave, Chicago, IL 60626",97.0,57.0,50.0,75.0,79.0,-0.5014855341170091,38951.0
+346,Julia Ward Howe Elementary School of Excellence,"720 N Lorel Ave, Chicago, IL 60644",75.0,32.0,38.0,27.0,41.0,0.6694868871791774,35248.0
+347,KIPP Academy Chicago Campus,"4818 W Ohio St, Chicago, IL 60644",95.0,93.0,85.0,68.0,65.0,-0.678070090718818,35248.0
+348,KIPP Ascend Charter School,"1616 S Avers Ave, Chicago, IL 60623",86.0,58.0,48.0,54.0,45.0,0.3089418166476683,34670.0
+349,KIPP Chicago Charter School - KIPP Bloom,"5515 S Lowe Ave, Chicago, IL 60621",87.0,72.0,67.0,69.0,40.0,-0.3652733520080602,23875.0
+350,KIPP One Academy,"730 N Pulaski Rd, Chicago, IL 60624",99.0,86.0,72.0,78.0,94.0,-0.6593810843748829,28695.0
+351,Kate S Kellogg Elementary School,"9241 S Leavitt St, Chicago, IL 60620",88.0,78.0,68.0,82.0,70.0,-0.7566567655583972,45717.0
+352,Kelvyn Park High School,"4343 W Wrightwood Ave, Chicago, IL 60639",59.0,72.0,43.0,52.0,48.0,0.42190755029936755,50923.0
+353,Kenwood Academy High School,"5015 S Blackstone Ave, Chicago, IL 60615",98.0,80.0,72.0,91.0,74.0,-0.7380790502099404,41344.0
+354,Kwame Nkrumah Academy Charter School,"314 W 108th St, Chicago, IL 60628",56.0,22.0,24.0,28.0,13.0,0.6590893043114167,47232.0
+355,L.E.A.R.N. - 7th Campus,"3021 W Carroll Ave, Chicago, IL 60612",,47.0,53.0,51.0,,0.60812875809059,31941.0
+356,L.E.A.R.N. - Charles and Dorothy Campbell Campus,"212 S Francisco Ave, Chicago, IL 60612",,95.0,89.0,97.0,,-0.6535398934896546,31941.0
+357,L.E.A.R.N. - Excel Campus,"3021 W Carroll Ave, Chicago, IL 60612",,92.0,87.0,98.0,,-0.6651224385313032,31941.0
+358,L.E.A.R.N. - Hunter Perkins Campus,"1700 W. 83rd Street, Chicago, IL 60620",67.0,78.0,79.0,70.0,40.0,-0.4115392873790319,45717.0
+359,L.E.A.R.N. - Middle School Campus,"3021 W Carroll Ave, Chicago, IL 60612",78.0,61.0,72.0,36.0,34.0,0.2971543874517196,31941.0
+360,L.E.A.R.N. - Romano Butler Campus,"1132 S Homan Ave, Chicago, IL 60624",71.0,51.0,52.0,41.0,36.0,0.6053061306505003,28695.0
+361,L.E.A.R.N. - South Chicago Campus,"8914 S. Buffalo Avenue, Chicago, IL 60617",85.0,55.0,49.0,42.0,33.0,0.5227629482412589,43572.0
+362,LaSalle Elementary Language Academy,"1734 N Orleans St, Chicago, IL 60614",81.0,55.0,39.0,73.0,67.0,-0.07656506418020817,93702.0
+363,LaSalle II Magnet Elementary School,"1148 N Honore St, Chicago, IL 60622",70.0,77.0,73.0,80.0,48.0,-0.5620333487555221,54344.0
+364,Lake View High School,"4015 N Ashland Ave, Chicago, IL 60613",52.0,48.0,30.0,51.0,44.0,0.661939781746264,63528.0
+365,Langston Hughes Elementary School,"240 W 104th St, Chicago, IL 60628",75.0,65.0,59.0,58.0,33.0,0.2461757643333344,47232.0
+366,Laughlin Falconer Elementary School,"3020 N Lamon Ave, Chicago, IL 60641",81.0,69.0,62.0,66.0,65.0,-0.5711807617609805,54544.0
+367,Laura S Ward Elementary School,"646 N Lawndale Ave, Chicago, IL 60624",96.0,61.0,59.0,69.0,57.0,-0.43434331764778045,28695.0
+368,Lawndale Elementary Community Academy,"3500 W Douglas Blvd, Chicago, IL 60623",78.0,52.0,40.0,44.0,37.0,0.6301470454552259,34670.0
+369,Lazaro Cardenas Elementary School,"2345 S Millard Ave, Chicago, IL 60623",,71.0,73.0,68.0,,-0.5888702810775441,34670.0
+370,Legacy Charter School,"3318 West Ogden Ave, Chicago, IL 60623",79.0,54.0,55.0,58.0,53.0,0.21200474529057572,34670.0
+371,Legal Prep Charter Academy,"4319 W Washington Blvd, Chicago, IL 60612",64.0,67.0,67.0,53.0,48.0,0.10615043694728298,31941.0
+372,Leif Ericson Elementary Scholastic Academy,"3600 W 5th Ave, Chicago, IL 60624",77.0,52.0,63.0,62.0,32.0,0.30074948575358257,28695.0
+373,Lenart Elementary Regional Gifted Center,"8101 S Lasalle St, Chicago, IL 60620",46.0,43.0,52.0,83.0,45.0,0.3791633089235859,45717.0
+374,Leslie Lewis Elementary School,"1431 N Leamington Ave, Chicago, IL 60651",99.0,96.0,88.0,82.0,75.0,-0.7063091126781375,41711.0
+375,Lillian R. Nicholson STEM Academy,"6006 S Peoria St, Chicago, IL 60621",,16.0,10.0,29.0,,0.5639705378933739,23875.0
+376,Lionel Hampton Fine & Performing Arts ES,"3434 W 77th St, Chicago, IL 60652",46.0,66.0,49.0,59.0,22.0,0.4678598204016582,64997.0
+377,Little Village Elementary School,"2620 S Lawndale Ave, Chicago, IL 60623",60.0,59.0,63.0,55.0,46.0,0.3670759860859211,34670.0
+378,Logandale Middle School,"3212 W George St, Chicago, IL 60618",64.0,73.0,63.0,69.0,44.0,-0.21436953521578014,55303.0
+379,Lorenz Brentano Math & Science Academy ES,"2723 N Fairfield Ave, Chicago, IL 60647",80.0,68.0,63.0,78.0,38.0,-0.372281172391726,46572.0
+380,Louis A Agassiz Elementary School,"2851 N Seminary Ave, Chicago, IL 60657",83.0,95.0,78.0,96.0,68.0,-0.6357925968624513,74895.0
+381,Louis Nettelhorst Elementary School,"3252 N Broadway St, Chicago, IL 60657",43.0,48.0,48.0,77.0,31.0,0.40274772392142216,74895.0
+382,Louis Pasteur Elementary School,"5825 S Kostner Ave, Chicago, IL 60629",,59.0,50.0,66.0,,0.23301658770914216,50099.0
+383,Louisa May Alcott College Preparatory ES,"2625 N Orchard St, Chicago, IL 60614",67.0,61.0,53.0,93.0,39.0,-0.10661082725865205,93702.0
+384,Louisa May Alcott College Preparatory HS,"2957 N Hoyne Ave, Chicago, IL 60618",88.0,95.0,90.0,99.0,77.0,-0.687570254606997,55303.0
+385,Ludwig Van Beethoven Elementary School,"25 W 47th St, Chicago, IL 60609",77.0,39.0,31.0,63.0,38.0,0.5984003052677768,31357.0
+386,Luke O'Toole Elementary School,"6550 S Seeley Ave, Chicago, IL 60636",86.0,72.0,60.0,55.0,59.0,-0.38525363895809767,33080.0
+387,Luther Burbank Elementary School,"2035 N Mobile Ave, Chicago, IL 60639",87.0,84.0,79.0,81.0,75.0,-0.7486426739710741,50923.0
+388,Lyman A Budlong Elementary School,"2701 W Foster Ave, Chicago, IL 60625",84.0,63.0,53.0,72.0,57.0,-0.41315257447416454,53288.0
+389,Mahalia Jackson Elementary School,"917 W 88th St, Chicago, IL 60620",59.0,55.0,41.0,52.0,44.0,0.6802950189310044,45717.0
+390,Mancel Talcott Elementary School,"1840 W Ohio St, Chicago, IL 60622",67.0,70.0,47.0,71.0,45.0,0.03485934439776487,54344.0
+391,Manley Career Academy High School,"2935 W Polk St, Chicago, IL 60612",75.0,69.0,65.0,64.0,41.0,-0.16971175277013156,31941.0
+392,Manuel Perez Elementary School,"1241 W 19th St, Chicago, IL 60608",99.0,83.0,73.0,84.0,92.0,-0.6871839163817423,33821.0
+393,Marcus Moziah Garvey Elementary School,"10309 S Morgan St, Chicago, IL 60643",75.0,83.0,77.0,75.0,46.0,-0.5564921782507748,62868.0
+394,Maria Saucedo Elementary Scholastic Academy,"2850 W 24th Blvd, Chicago, IL 60623",57.0,40.0,40.0,64.0,36.0,0.6691046796107082,34670.0
+395,Mariano Azuela Elementary School,"4707 W Marquette Rd, Chicago, IL 60629",63.0,49.0,38.0,59.0,40.0,0.6789656593577353,50099.0
+396,Marie Sklodowska Curie Metropolitan High School,"4959 S Archer Ave, Chicago, IL 60632",60.0,54.0,46.0,52.0,48.0,0.6448282881445185,46811.0
+397,Marine Leadership Academy at Ames,"1920 N Hamlin Ave, Chicago, IL 60647",90.0,76.0,74.0,80.0,63.0,-0.7461656852805427,46572.0
+398,Mark Sheridan Math & Science Academy,"533 W 27th St, Chicago, IL 60616",57.0,63.0,52.0,62.0,43.0,0.4300154654792469,41111.0
+399,Mark Twain Elementary School,"5134 S Lotus Ave, Chicago, IL 60638",58.0,54.0,60.0,54.0,34.0,0.534299073080679,56616.0
+400,Marquette Elementary School,"6550 S Richmond St, Chicago, IL 60629",77.0,52.0,44.0,53.0,45.0,0.5649096734663271,50099.0
+401,Martha Ruggles Elementary School,"7831 S Prairie Ave, Chicago, IL 60619",92.0,70.0,57.0,65.0,62.0,-0.5629107502789817,42754.0
+402,Marvin Camras Elementary School,"3000 N Mango Ave, Chicago, IL 60634",62.0,71.0,52.0,61.0,47.0,0.14815753379813,62214.0
+403,Mary E Courtenay Elementary Language Arts Center,"4420 N Beacon St, Chicago, IL 60640",75.0,58.0,51.0,63.0,48.0,0.2573142616331181,44410.0
+404,Mary E McDowell Elementary School,"1419 E 89th St, Chicago, IL 60619",,79.0,83.0,62.0,,-0.6513268694996139,42754.0
+405,Mary Gage Peterson Elementary School,"5510 N Christiana Ave, Chicago, IL 60625",72.0,61.0,63.0,64.0,51.0,-0.1310069467075752,53288.0
+406,Mary Lyon Elementary School,"2941 N Mcvicker Ave, Chicago, IL 60634",55.0,69.0,63.0,71.0,31.0,0.12451438626064977,62214.0
+407,Matthew Gallistel Elementary Language Academy,"10347 S Ewing Ave, Chicago, IL 60617",72.0,65.0,62.0,75.0,54.0,-0.4352386086508681,43572.0
+408,Medgar Evers Elementary School,"9811 S Lowe Ave, Chicago, IL 60628",87.0,85.0,68.0,87.0,45.0,-0.6491948965523203,47232.0
+409,Melville W Fuller Elementary School,"4214 S St Lawrence Ave, Chicago, IL 60653",91.0,60.0,57.0,43.0,83.0,-0.1868858745697319,18464.0
+410,Michael Faraday Elementary School,"3250 W Monroe St, Chicago, IL 60624",92.0,84.0,71.0,86.0,53.0,-0.6638597840206196,28695.0
+411,Michael M Byrne Elementary School,"5329 S Oak Park Ave, Chicago, IL 60638",61.0,61.0,54.0,69.0,36.0,0.3266874855533857,56616.0
+412,Michele Clark Academic Prep Magnet High School,"5101 W Harrison St, Chicago, IL 60644",61.0,59.0,44.0,61.0,39.0,0.5597128481536038,35248.0
+413,Mildred I Lavizzo Elementary School,"138 W 109th St, Chicago, IL 60628",83.0,72.0,61.0,69.0,47.0,-0.4689145975709412,47232.0
+414,Milton Brunson Math & Science Specialty ES,"932 N Central Ave, Chicago, IL 60651",68.0,75.0,59.0,62.0,26.0,0.15602788649237478,41711.0
+415,Minnie Mars Jamieson Elementary School,"5650 N Mozart St, Chicago, IL 60659",71.0,70.0,70.0,81.0,43.0,-0.4521211167762806,55851.0
+416,Morgan Park High School,"1744 W Pryor Ave, Chicago, IL 60643",74.0,51.0,39.0,47.0,39.0,0.6099611163971298,62868.0
+417,Morton School of Excellence,"431 N Troy St, Chicago, IL 60612",88.0,64.0,59.0,55.0,78.0,-0.41581774608067124,31941.0
+418,Mount Greenwood Elementary School,"10841 S Homan Ave, Chicago, IL 60655",98.0,91.0,80.0,94.0,98.0,-0.6244656944510302,73296.0
+419,Mount Vernon Elementary School,"10540 S Morgan St, Chicago, IL 60643",89.0,68.0,56.0,57.0,55.0,-0.2960314278743866,62868.0
+420,Moving Everest Charter School,"416 N Laramie Ave, Chicago, IL 60644",,59.0,66.0,35.0,,0.36398940587129436,35248.0
+421,Multicultural Academy of Scholarship,"3120 S Kostner Ave, Chicago, IL 60623",60.0,59.0,47.0,64.0,52.0,0.40256691510074816,34670.0
+422,Myra Bradwell Communications Arts & Sciences ES,"7736 S Burnham Ave, Chicago, IL 60649",73.0,41.0,51.0,29.0,50.0,0.6172139489873599,35616.0
+423,Namaste Charter School,"3737 S Paulina St, Chicago, IL 60609",39.0,25.0,21.0,59.0,21.0,0.6341607176914758,31357.0
+424,Nancy B Jefferson Alternative HS,"1100 S Hamilton Ave, Chicago, IL 60612",57.0,88.0,82.0,91.0,36.0,-0.4205950087844148,31941.0
+425,Nathan Hale Elementary School,"6140 S Melvina Ave, Chicago, IL 60638",79.0,65.0,60.0,60.0,56.0,-0.28120328860879695,56616.0
+426,Nathan S Davis Elementary School,"3014 W 39th Pl, Chicago, IL 60632",71.0,51.0,49.0,56.0,44.0,0.5820528739028318,46811.0
+427,Nathanael Greene Elementary School,"3525 S Honore St, Chicago, IL 60609",,93.0,87.0,99.0,,-0.6592542279928365,31357.0
+428,National Teachers Elementary Academy,"55 W Cermak Rd, Chicago, IL 60616",89.0,75.0,74.0,84.0,57.0,-0.7181726430635753,41111.0
+429,Neal F Simeon Career Academy High School,"8147 S Vincennes Ave, Chicago, IL 60620",92.0,55.0,63.0,60.0,77.0,-0.45311039379595996,45717.0
+430,New Field Elementary School,"1707 W Morse Ave, Chicago, IL 60626",,67.0,63.0,85.0,,-0.568924205575022,38951.0
+431,Newton Bateman Elementary School,"4220 N Richmond St, Chicago, IL 60618",74.0,74.0,68.0,77.0,56.0,-0.6161499240238218,55303.0
+432,Nicholas Senn High School,"5900 N Glenwood Ave, Chicago, IL 60660",68.0,53.0,38.0,58.0,52.0,0.582640370991355,45169.0
+433,Ninos Heroes Elementary Academic Center,"8344 S Commercial Ave, Chicago, IL 60617",63.0,57.0,52.0,49.0,22.0,0.6079119010782432,43572.0
+434,Noble - Baker College Prep,"2710 E 89th St, Chicago, IL 60617",88.0,75.0,62.0,66.0,61.0,-0.6356782724361539,43572.0
+435,Noble - Butler College Prep,"821 E 103rd St, Chicago, IL 60628",87.0,35.0,41.0,51.0,66.0,0.40719978094063275,47232.0
+436,Noble - Chicago Bulls College Prep,"2040 W Adams St, Chicago, IL 60612",94.0,63.0,51.0,50.0,74.0,-0.2600397314748622,31941.0
+437,Noble - DRW College Prep,"931 S Homan Ave, Chicago, IL 60624",76.0,30.0,26.0,41.0,56.0,0.6146446569163836,28695.0
+438,Noble - Gary Comer College Prep High School,"7131 S South Chicago Ave, Chicago, IL 60619",81.0,47.0,39.0,66.0,63.0,0.25124572848325677,42754.0
+439,Noble - Gary Comer College Prep Middle School,"1010 E 72nd St, Chicago, IL 60619",80.0,91.0,80.0,75.0,31.0,-0.4878889951188651,42754.0
+440,Noble - Golder College Prep,"1454 W Superior St, Chicago, IL 60642",89.0,45.0,40.0,55.0,73.0,0.15500845447453235,54344.0
+441,Noble - Hansberry College Prep,"8748 S Aberdeen St, Chicago, IL 60620",89.0,64.0,49.0,65.0,49.0,-0.17929391887546783,45717.0
+442,Noble - ITW David Speer Academy,"5321 W Grand Ave, Chicago, IL 60639",78.0,59.0,47.0,63.0,70.0,-0.16992888829610708,50923.0
+443,Noble - John and Eunice Johnson College Prep,"6350 S Stewart Ave, Chicago, IL 60621",86.0,73.0,67.0,84.0,66.0,-0.6456642781698274,23875.0
+444,Noble - Mansueto High School,"2911 W 47th, Chicago, IL 60632",92.0,79.0,74.0,84.0,87.0,-0.7268869520995909,46811.0
+445,Noble - Muchin College Prep,"1 N State St, Chicago, IL 60602",94.0,65.0,52.0,86.0,69.0,-0.5509700789349647,25272.0
+446,Noble - Noble College Prep,"1010 N Noble St, Chicago, IL 60622",92.0,79.0,70.0,73.0,81.0,-0.7195545765257155,54344.0
+447,Noble - Pritzker College Prep,"4131 W Cortland St, Chicago, IL 60639",98.0,89.0,69.0,89.0,78.0,-0.7319991082491282,50923.0
+448,Noble - Rauner College Prep,"1337 W Ohio St, Chicago, IL 60642",99.0,70.0,65.0,79.0,77.0,-0.6995669572336575,54344.0
+449,Noble - Rowe-Clark Math and Science Academy,"3645 W Chicago Ave, Chicago, IL 60651",84.0,72.0,66.0,78.0,63.0,-0.7071641695995436,41711.0
+450,Noble - The Noble Academy,"17 N State St, Chicago, IL 60602",81.0,66.0,50.0,78.0,61.0,-0.40754192676008344,25272.0
+451,Noble - UIC College Prep,"1231 S Damen Ave, Chicago, IL 60608",90.0,72.0,65.0,66.0,74.0,-0.6433136101409476,33821.0
+452,Norman A Bridge Elementary School,"3800 N New England Ave, Chicago, IL 60634",53.0,63.0,52.0,69.0,33.0,0.36532127580018586,62214.0
+453,North Lawndale College Prep - Christiana,"1615 S Christiana Ave, Chicago, IL 60623",88.0,87.0,63.0,53.0,49.0,-0.4238306985424973,34670.0
+454,North Lawndale College Prep - Collins,"1313 S Sacramento Dr, Chicago, IL 60623",77.0,77.0,56.0,77.0,44.0,-0.41991723692210053,34670.0
+455,North River Elementary School,"4416 N Troy St, Chicago, IL 60625",97.0,87.0,74.0,86.0,79.0,-0.7355697702797261,53288.0
+456,North-Grand High School,"4338 W Wabansia Ave, Chicago, IL 60639",70.0,89.0,84.0,83.0,62.0,-0.6746442959977653,50923.0
+457,Northside College Preparatory High School,"5501 N Kedzie Ave, Chicago, IL 60625",99.0,75.0,72.0,89.0,90.0,-0.6962216833281227,53288.0
+458,Northside Learning Center High School,"3730 W Bryn Mawr Ave, Chicago, IL 60659",93.0,73.0,62.0,96.0,75.0,-0.6961298009549287,55851.0
+459,Northwest Middle School,"5252 W Palmer St, Chicago, IL 60639",72.0,63.0,62.0,48.0,28.0,0.40384937787851427,50923.0
+460,Norwood Park Elementary School,"5900 N Nina Ave, Chicago, IL 60631",64.0,65.0,64.0,87.0,60.0,-0.4391631295248866,67465.0
+461,Ogden International High School,"1250 W Erie St, Chicago, IL 60642",84.0,44.0,25.0,69.0,56.0,0.3737208565091281,54344.0
+462,Ole A Thorp Elementary Scholastic Academy,"6024 W Warwick Ave, Chicago, IL 60634",47.0,52.0,43.0,74.0,38.0,0.4771735507752011,62214.0
+463,Oliver S Westcott Elementary School,"409 W 80th St, Chicago, IL 60620",80.0,55.0,43.0,59.0,62.0,0.20886440988371308,45717.0
+464,Oliver Wendell Holmes Elementary School,"955 W Garfield Blvd, Chicago, IL 60621",97.0,52.0,53.0,49.0,77.0,-0.14039631276575273,23875.0
+465,Ombudsman Chicago - Northwest,"7500 N Harlem Ave, Chicago, IL 60631",39.0,50.0,46.0,47.0,57.0,0.5354602693220936,67465.0
+466,Ombudsman Chicago - South,"6057 S Western Ave, Chicago, IL 60636",60.0,75.0,70.0,66.0,52.0,-0.31029186688356625,33080.0
+467,Ombudsman Chicago - West,"2401 W Congress Pkwy, Chicago, IL 60612",57.0,49.0,31.0,31.0,51.0,0.673476419787203,31941.0
+468,Oriole Park Elementary School,"5424 N Oketo Ave, Chicago, IL 60656",63.0,75.0,65.0,89.0,59.0,-0.5481161719999785,59157.0
+469,Orozco Fine Arts & Sciences Elementary School,"1940 W 18th St, Chicago, IL 60608",58.0,46.0,41.0,51.0,36.0,0.7163828353828208,33821.0
+470,Orr Academy High School,"730 N Pulaski Rd, Chicago, IL 60624",80.0,73.0,64.0,63.0,54.0,-0.4294867207754923,28695.0
+471,Orville T Bright Elementary School,"10740 S Calhoun Ave, Chicago, IL 60617",78.0,51.0,32.0,47.0,62.0,0.5123249319784441,43572.0
+472,Oscar DePriest Elementary School,"139 S Parkside Ave, Chicago, IL 60644",85.0,68.0,58.0,63.0,51.0,-0.33586725971590475,35248.0
+473,Oscar F Mayer Elementary School,"2250 N Clifton Ave, Chicago, IL 60614",84.0,46.0,52.0,75.0,70.0,-0.15190514158596363,93702.0
+474,Pablo Casals Elementary School,"3501 W Potomac Ave, Chicago, IL 60651",97.0,63.0,54.0,68.0,80.0,-0.555411219675604,41711.0
+475,Park Manor Elementary School,"7037 S Rhodes Ave, Chicago, IL 60637",82.0,61.0,66.0,53.0,65.0,-0.2729155130913432,30244.0
+476,Parkside Elementary Community Academy,"6938 S East End Ave, Chicago, IL 60649",93.0,68.0,63.0,58.0,84.0,-0.5487072396850355,35616.0
+477,Pathways in Education - Ashburn,"3284 W 87th St, Chicago, IL 60652",67.0,53.0,33.0,53.0,70.0,0.37711396501783273,64997.0
+478,Pathways in Education - Avondale,"3100 W Belmont Ave, Chicago, IL 60618",37.0,31.0,18.0,17.0,62.0,0.5912057021580273,55303.0
+479,Pathways in Education - Brighton Park,"3124 W 47th St, Chicago, IL 60632",57.0,53.0,22.0,36.0,62.0,0.6148402270296627,46811.0
+480,Patrick Henry Elementary School,"4250 N Saint Louis Ave, Chicago, IL 60618",76.0,68.0,57.0,64.0,71.0,-0.47524700366429956,55303.0
+481,Paul Cuffe Math-Science Technology Academy ES,"8324 S Racine Ave, Chicago, IL 60620",98.0,71.0,69.0,66.0,95.0,-0.6257911921261211,45717.0
+482,Paul Laurence Dunbar Career Academy High School,"3000 S King Dr, Chicago, IL 60616",83.0,80.0,66.0,87.0,55.0,-0.6962136715812256,41111.0
+483,Paul Revere Elementary School,"1010 E 72nd St, Chicago, IL 60619",50.0,47.0,53.0,57.0,30.0,0.6503222274097242,42754.0
+484,Paul Robeson High School,"6835 S Normal Blvd, Chicago, IL 60621",92.0,82.0,62.0,77.0,77.0,-0.654480828317468,23875.0
+485,Peace & Education Coalition HS,"4946 S Paulina St, Chicago, IL 60609",74.0,80.0,62.0,37.0,61.0,-0.09901189826684523,31357.0
+486,Percy L Julian High School,"10330 S Elizabeth St, Chicago, IL 60643",98.0,86.0,62.0,78.0,69.0,-0.6882257632491808,62868.0
+487,Perkins Bass Elementary School,"1140 W 66th St, Chicago, IL 60621",95.0,79.0,65.0,71.0,86.0,-0.6272224537422689,23875.0
+488,Perspectives - High School of Technology,"8131 S May St., Chicago, IL 60620",70.0,58.0,47.0,43.0,52.0,0.5573177445188914,45717.0
+489,Perspectives - Leadership Academy,"8131 South May Street, Chicago, IL 60620",69.0,62.0,55.0,44.0,49.0,0.45071685611008927,45717.0
+490,Perspectives - Math and Science Academy,"3663 S. Wabash Avenue, Chicago, IL 60653",64.0,53.0,52.0,60.0,36.0,0.46769060311710337,18464.0
+491,Perspectives - Rodney D. Joslin,"1930 S Archer Ave, Chicago, IL 60616",66.0,37.0,33.0,44.0,50.0,0.720061126880453,41111.0
+492,Peter A Reinberg Elementary School,"3425 N Major Ave, Chicago, IL 60634",67.0,37.0,37.0,47.0,49.0,0.6647085310171843,62214.0
+493,Peter Cooper Elementary Dual Language Academy,"1624 W 19th St, Chicago, IL 60608",,70.0,58.0,71.0,,-0.49565096412351856,33821.0
+494,Philip Rogers Elementary School,"7345 N Washtenaw Ave, Chicago, IL 60645",77.0,83.0,81.0,86.0,53.0,-0.6762252399989657,52022.0
+495,Phillip D Armour Elementary School,"950 W 33rd Pl, Chicago, IL 60608",74.0,69.0,64.0,87.0,46.0,-0.47821584999796346,33821.0
+496,Phillip Murray Elementary Language Academy,"5335 S Kenwood Ave, Chicago, IL 60615",70.0,32.0,35.0,53.0,37.0,0.7123462948634317,41344.0
+497,Phoebe Apperson Hearst Elementary School,"4640 S Lamon Ave, Chicago, IL 60638",53.0,26.0,22.0,38.0,45.0,0.6901880851541378,56616.0
+498,Phoenix Military Academy High School,"145 S Campbell Ave, Chicago, IL 60612",92.0,81.0,66.0,94.0,68.0,-0.7065620255959517,31941.0
+499,Pilsen Elementary Community Academy,"1420 W 17th St, Chicago, IL 60608",63.0,62.0,54.0,59.0,50.0,0.3267785961236292,33821.0
+500,Plato Learning Academy,"5545 W Harrison St, Chicago, IL 60644",62.0,53.0,49.0,61.0,32.0,0.591884345077081,35248.0
+501,Polaris Charter Academy,"620 N Sawyer Ave, Chicago, IL 60624",91.0,81.0,66.0,65.0,79.0,-0.6419506874434466,28695.0
+502,Portage Park Elementary School,"5330 W Berteau Ave, Chicago, IL 60641",78.0,74.0,62.0,81.0,63.0,-0.6720956182324112,54544.0
+503,Providence Englewood Charter School,"6515 S Ashland Ave, Chicago, IL 60636",52.0,40.0,50.0,33.0,33.0,0.6933962997767327,33080.0
+504,Pulaski International School of Chicago,"2230 W Mclean Ave, Chicago, IL 60647",68.0,55.0,54.0,79.0,55.0,-0.11670720822955533,46572.0
+505,Rachel Carson Elementary School,"5516 S Maplewood Ave, Chicago, IL 60629",34.0,32.0,28.0,55.0,14.0,0.638388642690724,50099.0
+506,Ralph H Metcalfe Elementary Community Academy,"12339 S Normal Ave, Chicago, IL 60628",79.0,70.0,57.0,53.0,53.0,-0.1296024406654261,47232.0
+507,Ravenswood Elementary School,"4332 N Paulina St, Chicago, IL 60613",87.0,85.0,67.0,85.0,57.0,-0.6774902028888989,63528.0
+508,Ray Graham Training Center High School,"2347 S Wabash Ave, Chicago, IL 60616",90.0,78.0,81.0,86.0,65.0,-0.7397451399080449,41111.0
+509,Richard Edwards Elementary School,"4815 S Karlov Ave, Chicago, IL 60632",89.0,64.0,51.0,71.0,68.0,-0.5229007610200651,46811.0
+510,Richard Henry Lee Elementary School,"6448 S Tripp Ave, Chicago, IL 60629",86.0,91.0,77.0,90.0,68.0,-0.7382332508710792,50099.0
+511,Richard J Daley Elementary Academy,"5024 S Wolcott Ave, Chicago, IL 60609",38.0,42.0,32.0,47.0,19.0,0.6625724887610466,31357.0
+512,Richard J Oglesby Elementary School,"7646 S Green St, Chicago, IL 60620",50.0,21.0,25.0,28.0,26.0,0.6831567851154341,45717.0
+513,Richard T Crane Medical Preparatory HS,"2245 W Jackson Blvd, Chicago, IL 60612",88.0,51.0,41.0,58.0,58.0,0.2508646662803803,31941.0
+514,Richard Yates Elementary School,"1839 N Richmond St, Chicago, IL 60647",43.0,34.0,28.0,51.0,40.0,0.7114631734585001,46572.0
+515,Roald Amundsen High School,"5110 N Damen Ave, Chicago, IL 60625",79.0,70.0,55.0,74.0,62.0,-0.5587081886867936,53288.0
+516,Robert A Black Magnet Elementary School,"9101 S Euclid Ave, Chicago, IL 60619",97.0,85.0,68.0,88.0,99.0,-0.6734199143147827,42754.0
+517,Robert Fulton Elementary School,"5300 S Hermitage Ave, Chicago, IL 60609",82.0,65.0,59.0,50.0,44.0,0.13546755080443887,31357.0
+518,Robert Healy Elementary School,"3010 S Parnell Ave, Chicago, IL 60616",57.0,72.0,69.0,76.0,37.0,-0.16333737640128507,41111.0
+519,Robert J. Richardson Middle School,"6018 S Karlov Ave, Chicago, IL 60629",73.0,63.0,70.0,66.0,38.0,-0.11642124962929878,50099.0
+520,Robert L Grimes Elementary School,"5450 W 64th Pl, Chicago, IL 60638",66.0,65.0,60.0,56.0,52.0,0.10825531105820782,56616.0
+521,Robert Lindblom Math & Science Academy HS,"6130 S Wolcott Ave, Chicago, IL 60636",89.0,61.0,51.0,86.0,69.0,-0.5415263500428125,33080.0
+522,Robert Nathaniel Dett Elementary School,"2131 W Monroe St, Chicago, IL 60612",77.0,30.0,39.0,32.0,82.0,0.4175194522611277,31941.0
+523,Roberto Clemente Community Academy High School,"1147 N Western Ave, Chicago, IL 60622",55.0,40.0,44.0,50.0,37.0,0.7227180794654124,54344.0
+524,Rodolfo Lozano Bilingual & International Ctr ES,"1501 N Greenview Ave, Chicago, IL 60642",71.0,61.0,43.0,59.0,48.0,0.4160527261890825,54344.0
+525,Roger C Sullivan High School,"6631 N Bosworth Ave, Chicago, IL 60626",65.0,70.0,58.0,62.0,63.0,-0.2569988168015347,38951.0
+526,Ronald Brown Elementary Community Academy,"12607 S Union Ave, Chicago, IL 60628",92.0,66.0,52.0,59.0,85.0,-0.48040207118556244,47232.0
+527,Ronald E McNair Elementary School,"4820 W Walton St, Chicago, IL 60651",91.0,67.0,61.0,54.0,71.0,-0.4726733634974577,41711.0
+528,Rosario Castellanos Elementary School,"2524 S Central Park Ave, Chicago, IL 60623",67.0,46.0,48.0,36.0,42.0,0.6828053308260218,34670.0
+529,Roswell B Mason Elementary School,"4217 W 18th St, Chicago, IL 60623",95.0,79.0,74.0,84.0,91.0,-0.6944029329547107,34670.0
+530,Rowe Elementary Charter School,"1424 N Cleaver St, Chicago, IL 60622",40.0,34.0,26.0,50.0,23.0,0.6779692268813583,54344.0
+531,Rudyard Kipling Elementary School,"9351 S Lowe Ave, Chicago, IL 60620",59.0,64.0,47.0,54.0,39.0,0.5617011643781266,45717.0
+532,Rueben Salazar Elementary Bilingual Center,"160 W Wendell St, Chicago, IL 60610",65.0,67.0,67.0,65.0,43.0,-0.08489189154546871,70682.0
+533,Rufus M Hitch Elementary School,"5625 N Mcvicker Ave, Chicago, IL 60646",75.0,70.0,59.0,71.0,55.0,-0.35795931926222907,74229.0
+534,STEM Magnet Academy,"1522 W Fillmore St, Chicago, IL 60607",74.0,88.0,80.0,93.0,50.0,-0.6286936892370564,59427.0
+535,Salmon P Chase Elementary School,"2021 N Point St, Chicago, IL 60647",97.0,83.0,74.0,83.0,96.0,-0.6909582829352788,46572.0
+536,Sarah E. Goode STEM Academy,"7651 S Homan Ave, Chicago, IL 60652",59.0,35.0,33.0,38.0,47.0,0.6783262981475539,64997.0
+537,Sauganash Elementary School,"6040 N Kilpatrick Ave, Chicago, IL 60646",91.0,82.0,76.0,92.0,81.0,-0.6543561100667744,74229.0
+538,Scott Joplin Elementary School,"7931 S Honore St, Chicago, IL 60620",99.0,76.0,72.0,75.0,86.0,-0.7075649033282363,45717.0
+539,Sharon Christa McAuliffe Elementary School,"1841 N Springfield Ave, Chicago, IL 60647",65.0,45.0,48.0,47.0,50.0,0.6786683713815028,46572.0
+540,Sidney Sawyer Elementary School,"5248 S Sawyer Ave, Chicago, IL 60632",66.0,42.0,34.0,52.0,47.0,0.7162353819229323,46811.0
+541,Simpson Academy HS for Young Women,"1321 S Paulina St, Chicago, IL 60608",95.0,56.0,52.0,38.0,63.0,0.1280750250372708,33821.0
+542,Sir Miles Davis Magnet Elementary Academy,"6740 S Paulina St, Chicago, IL 60636",77.0,48.0,41.0,62.0,46.0,0.5113514155473772,33080.0
+543,Skinner North,"640 W Scott St, Chicago, IL 60610",59.0,61.0,58.0,74.0,49.0,0.003125155219368411,70682.0
+544,Socorro Sandoval Elementary School,"5534 S Saint Louis Ave, Chicago, IL 60629",,75.0,65.0,86.0,,-0.7033947316021071,50099.0
+545,South Loop Elementary School,"1212 S Plymouth Ct, Chicago, IL 60605",52.0,59.0,56.0,76.0,45.0,0.1788840770837943,64706.0
+546,South Shore Fine Arts Academy,"1415 E 70th St, Chicago, IL 60637",63.0,31.0,33.0,20.0,31.0,0.670027392587565,30244.0
+547,Southeast Area Elementary School,"3930 E 105th St, Chicago, IL 60617",89.0,90.0,83.0,86.0,58.0,-0.7178837283024808,43572.0
+548,Southside Occupational Academy High School,"7342 S Hoyne Ave, Chicago, IL 60636",,91.0,74.0,83.0,,-0.7059938550454216,33080.0
+549,Spencer Technology Academy,"214 N Lavergne Ave, Chicago, IL 60644",97.0,80.0,76.0,82.0,78.0,-0.7278048906802117,35248.0
+550,Spry Community Links High School,"2400 S Marshall Blvd, Chicago, IL 60623",56.0,79.0,64.0,78.0,60.0,-0.44612011315553696,34670.0
+551,Stephen Decatur Classical Elementary School,"7030 N Sacramento Ave, Chicago, IL 60645",86.0,75.0,71.0,97.0,62.0,-0.7092785995673063,52022.0
+552,Stephen F Gale Elementary Community Academy,"1631 W Jonquil Ter, Chicago, IL 60626",72.0,57.0,35.0,70.0,42.0,0.4413439867343502,38951.0
+553,Stephen K Hayt Elementary School,"1518 W Granville Ave, Chicago, IL 60660",67.0,41.0,31.0,47.0,46.0,0.7267016899364213,45169.0
+554,Stephen T Mather High School,"5835 N Lincoln Ave, Chicago, IL 60659",74.0,53.0,32.0,46.0,49.0,0.614115647874406,55851.0
+555,Stone Elementary Scholastic Academy,"6239 N Leavitt St, Chicago, IL 60659",66.0,37.0,45.0,69.0,42.0,0.5676569385897973,55851.0
+556,Suder Montessori Magnet ES,"2022 W Washington Blvd, Chicago, IL 60612",50.0,39.0,38.0,65.0,13.0,0.6125593290624748,31941.0
+557,Talman Elementary School,"5450 S Talman Ave, Chicago, IL 60632",,88.0,71.0,86.0,,-0.7264550149614952,46811.0
+558,Tarkington School of Excellence ES,"3330 W 71st St, Chicago, IL 60629",68.0,58.0,47.0,64.0,40.0,0.46724753228060234,50099.0
+559,Telpochcalli Elementary School,"2832 W 24th Blvd, Chicago, IL 60623",69.0,91.0,89.0,86.0,36.0,-0.5049069293289716,34670.0
+560,The Montessori School of Englewood Charter,"6936 S Hermitage Ave, Chicago, IL 60636",,31.0,35.0,26.0,,0.6547558238199274,33080.0
+561,Theodore Herzl Elementary School,"3711 W Douglas Blvd, Chicago, IL 60623",91.0,64.0,67.0,70.0,62.0,-0.594907838718904,34670.0
+562,Theodore Roosevelt High School,"3436 W Wilson Ave, Chicago, IL 60625",64.0,68.0,56.0,60.0,50.0,0.11028536849708295,53288.0
+563,Theophilus Schmid Elementary School,"9755 S Greenwood Ave, Chicago, IL 60628",95.0,60.0,51.0,60.0,57.0,-0.23923975122539085,47232.0
+564,Thomas A Edison Regional Gifted Center ES,"4929 N Sawyer Ave, Chicago, IL 60625",51.0,61.0,56.0,96.0,47.0,-0.13693323074985791,53288.0
+565,Thomas A Hendricks Elementary Community Academy,"4316 S Princeton Ave, Chicago, IL 60609",84.0,54.0,54.0,47.0,77.0,-0.039027909628931136,31357.0
+566,Thomas Chalmers Specialty Elementary School,"2745 W Roosevelt Rd, Chicago, IL 60608",58.0,32.0,31.0,23.0,29.0,0.6894590953687166,33821.0
+567,Thomas Drummond Elementary School,"1845 W Cortland St, Chicago, IL 60622",70.0,38.0,51.0,81.0,59.0,0.14397314603283248,54344.0
+568,Thomas Hoyne Elementary School,"8905 S Crandon Ave, Chicago, IL 60617",88.0,55.0,47.0,57.0,46.0,0.292486093750636,43572.0
+569,Thomas J Higgins Elementary Community Academy,"11710 S Morgan St, Chicago, IL 60643",81.0,56.0,47.0,50.0,59.0,0.25455068209544623,62868.0
+570,Thomas J Waters Elementary School,"4540 N Campbell Ave, Chicago, IL 60625",79.0,76.0,67.0,93.0,60.0,-0.6901572739180698,53288.0
+571,Thomas Kelly High School,"4136 S California Ave, Chicago, IL 60632",61.0,63.0,56.0,68.0,45.0,0.20220462223462174,46811.0
+572,Turner-Drew Elementary Language Academy,"9300 S Princeton Ave, Chicago, IL 60620",81.0,80.0,67.0,77.0,48.0,-0.6263483693421072,45717.0
+573,University of Chicago - Carter G. Woodson,"4444 S. Evans Avenue, Chicago, IL 60653",60.0,18.0,37.0,7.0,20.0,0.5811270632078889,18464.0
+574,University of Chicago - Donoghue,"707 E. 37th Street, Chicago, IL 60653",,68.0,66.0,78.0,,-0.45737490950787474,18464.0
+575,University of Chicago - North Kenwood/Oakland,"1119 E. 46th Street, Chicago, IL 60653",,30.0,43.0,59.0,,0.5974116896955286,18464.0
+576,University of Chicago - Woodlawn,"6300 S University Ave, Chicago, IL 60637",76.0,21.0,30.0,42.0,42.0,0.6508051457692573,30244.0
+577,Uplift Community High School,"900 W Wilson Ave, Chicago, IL 60640",58.0,33.0,11.0,32.0,53.0,0.6570212217823005,44410.0
+578,Urban Prep Academy for Young Men - Bronzeville,"521 E 35th St, Chicago, IL 60616",57.0,27.0,39.0,34.0,48.0,0.71166350170747,41111.0
+579,Urban Prep Academy for Young Men - Englewood,"6201 S Stewart Ave, Chicago, IL 60621",,39.0,52.0,56.0,,0.5702082428376942,23875.0
+580,Urban Prep Charter Academy for Young Men - West,"1326 W 14th Pl, Chicago, IL 60608",,91.0,72.0,96.0,,-0.6832822623341311,33821.0
+581,Velma F Thomas Early Childhood Center,"3625 S Hoyne Ave, Chicago, IL 60609",,44.0,42.0,78.0,,0.48996843212035357,31357.0
+582,Virgil Grissom Elementary School,"12810 S Escanaba Ave, Chicago, IL 60633",72.0,40.0,56.0,65.0,37.0,0.5089284830897883,50754.0
+583,Walt Disney Magnet Elementary School,"4140 N Marine Dr, Chicago, IL 60613",66.0,47.0,39.0,51.0,52.0,0.6016490136316308,63528.0
+584,Walter Henri Dyett High School for the Arts,"555 E 51st St, Chicago, IL 60615",92.0,86.0,71.0,81.0,65.0,-0.7486424176334494,41344.0
+585,Walter L Newberry Math & Science Academy ES,"700 W Willow St, Chicago, IL 60614",90.0,67.0,58.0,77.0,66.0,-0.38211079230207745,93702.0
+586,Walter Payton College Preparatory High School,"1034 N Wells St, Chicago, IL 60610",99.0,51.0,51.0,86.0,92.0,-0.45034986296190416,70682.0
+587,Walter Q Gresham Elementary School,"8524 S Green St, Chicago, IL 60620",75.0,65.0,65.0,44.0,46.0,0.2011174802019673,45717.0
+588,Walter S Christopher Elementary School,"5042 S Artesian Ave, Chicago, IL 60632",56.0,50.0,49.0,49.0,57.0,0.6086802226673668,46811.0
+589,Washington D Smyser Elementary School,"4310 N Melvina Ave, Chicago, IL 60634",59.0,60.0,64.0,67.0,36.0,0.2259788220047876,62214.0
+590,Washington Irving Elementary School,"749 S Oakley Blvd, Chicago, IL 60612",62.0,30.0,34.0,46.0,39.0,0.7184832165138247,31941.0
+591,Wells Community Academy High School,"936 N Ashland Ave, Chicago, IL 60622",74.0,67.0,39.0,67.0,60.0,-0.03776067842569667,54344.0
+592,Wendell E Green Elementary School,"1150 W 96th St, Chicago, IL 60643",75.0,56.0,62.0,55.0,47.0,0.19890691794037055,62868.0
+593,Wendell Phillips Academy High School,"244 E Pershing Rd, Chicago, IL 60653",85.0,61.0,57.0,41.0,58.0,0.12386612798269199,18464.0
+594,Wendell Smith Elementary School,"744 E 103rd St, Chicago, IL 60628",77.0,44.0,47.0,45.0,76.0,0.3166264892677738,47232.0
+595,West Park Elementary Academy,"1425 N Tripp Ave, Chicago, IL 60651",55.0,38.0,32.0,54.0,26.0,0.7196293065330294,41711.0
+596,West Ridge Elementary School,"6700 N Whipple St, Chicago, IL 60645",71.0,53.0,51.0,59.0,56.0,0.35203878259050153,52022.0
+597,Whitney M Young Magnet High School,"211 S Laflin St, Chicago, IL 60607",91.0,64.0,57.0,93.0,79.0,-0.6286604685796973,59427.0
+598,Wildwood IB World Magnet School,"6950 N Hiawatha Ave, Chicago, IL 60646",67.0,61.0,49.0,97.0,50.0,-0.23504715637408483,74229.0
+599,Willa Cather Elementary School,"2908 W Washington Blvd, Chicago, IL 60612",58.0,67.0,51.0,63.0,28.0,0.4189848825680956,31941.0
+600,William B Ogden Elementary School,"24 W Walton St, Chicago, IL 60610",,34.0,31.0,72.0,,0.5382480758169419,70682.0
+601,William Bishop Owen Scholastic Academy ES,"8247 S Christiana Ave, Chicago, IL 60652",77.0,66.0,71.0,82.0,38.0,-0.3821163377446987,64997.0
+602,William C Reavis Math & Science Specialty ES,"834 E 50th St, Chicago, IL 60615",96.0,82.0,76.0,81.0,87.0,-0.7206234087160291,41344.0
+603,William C. Goudy Technology Academy,"5120 N Winthrop Ave, Chicago, IL 60640",76.0,74.0,67.0,66.0,48.0,-0.45898088048154,44410.0
+604,William E B Dubois Elementary School,"330 E 133rd St, Chicago, IL 60827",75.0,51.0,60.0,43.0,43.0,0.5138072914755245,39986.0
+605,William E Dever Elementary School,"3436 N Osceola Ave, Chicago, IL 60634",82.0,78.0,73.0,75.0,36.0,-0.46351077979669414,62214.0
+606,William F Finkl Elementary School,"2332 S Western Ave, Chicago, IL 60608",93.0,74.0,53.0,85.0,64.0,-0.6404449851153498,33821.0
+607,William G Hibbard Elementary School,"3244 W Ainslie St, Chicago, IL 60625",70.0,68.0,58.0,69.0,51.0,-0.2630498939085157,53288.0
+608,William H Brown Elementary School,"54 N Hermitage Ave, Chicago, IL 60612",70.0,19.0,30.0,21.0,57.0,0.6076616904284977,31941.0
+609,William H Prescott Elementary School,"1632 W Wrightwood Ave, Chicago, IL 60614",61.0,66.0,67.0,81.0,74.0,-0.32580364619005564,93702.0
+610,William H Ray Elementary School,"5631 S Kimbark Ave, Chicago, IL 60637",68.0,66.0,63.0,76.0,36.0,-0.09850042184107191,30244.0
+611,William H Ryder Math & Science Specialty ES,"8716 S Wallace St, Chicago, IL 60620",87.0,66.0,59.0,72.0,93.0,-0.5974283439685758,45717.0
+612,William H Seward Communication Arts Academy ES,"4600 S Hermitage Ave, Chicago, IL 60609",59.0,53.0,42.0,35.0,52.0,0.6443386266501201,31357.0
+613,William Howard Taft High School,"6530 W Bryn Mawr Ave, Chicago, IL 60631",70.0,55.0,41.0,58.0,51.0,0.4268196751591835,67465.0
+614,William J Bogan High School,"3939 W 79th St, Chicago, IL 60652",60.0,65.0,50.0,62.0,51.0,0.23734581725042925,64997.0
+615,William J Onahan Elementary School,"6634 W Raven St, Chicago, IL 60631",69.0,62.0,56.0,75.0,46.0,-0.09412950469437371,67465.0
+616,William Jones College Preparatory High School,"700 S State St, Chicago, IL 60605",96.0,55.0,43.0,89.0,85.0,-0.4519352104547945,64706.0
+617,William K New Sullivan Elementary School,"8331 S Mackinaw Ave, Chicago, IL 60617",94.0,62.0,58.0,62.0,78.0,-0.5247159527776166,43572.0
+618,William P Gray Elementary School,"3730 N Laramie Ave, Chicago, IL 60641",79.0,89.0,71.0,79.0,53.0,-0.6706732601859308,54544.0
+619,William P Nixon Elementary School,"2121 N Keeler Ave, Chicago, IL 60639",80.0,69.0,66.0,60.0,49.0,-0.3499426612654203,50923.0
+620,William Penn Elementary School,"1616 S Avers Ave, Chicago, IL 60623",98.0,64.0,48.0,79.0,53.0,-0.4329413810161905,34670.0
+621,William Rainey Harper High School,"6520 S Wood St, Chicago, IL 60636",62.0,71.0,47.0,53.0,53.0,0.30746104868318586,33080.0
+622,William T Sherman Elementary School,"1000 W 52nd St, Chicago, IL 60609",99.0,74.0,73.0,58.0,98.0,-0.5636759885560461,31357.0
+623,William W Carter Elementary School,"5740 S Michigan Ave, Chicago, IL 60637",69.0,82.0,71.0,56.0,33.0,-0.12197808756798945,30244.0
+624,Wilma Rudolph Elementary Learning Center,"1628 W Washington Blvd, Chicago, IL 60612",,31.0,40.0,44.0,,0.6917293854068783,31941.0
+625,Wolfgang A Mozart Elementary School,"2200 N Hamlin Ave, Chicago, IL 60647",63.0,45.0,34.0,53.0,46.0,0.7185472875455267,46572.0
+626,Woodlawn Community Elementary School,"6657 S Kimbark Ave, Chicago, IL 60637",99.0,73.0,61.0,74.0,71.0,-0.650383867964048,30244.0
+627,World Language Academy High School,"3120 S Kostner Ave, Chicago, IL 60623",80.0,62.0,56.0,61.0,65.0,-0.292499529176474,34670.0
+628,YCCS - Association House HS,"1116 N Kedzie, 4th Floor Ave, Chicago, IL 60651",41.0,82.0,72.0,24.0,44.0,0.2725187446536077,41711.0
+629,YCCS - Chatham AcademyHS,"9035 S Langley Ave, Chicago, IL 60619",76.0,38.0,46.0,55.0,76.0,0.30063169583974564,42754.0
+630,YCCS - Dr. Pedro Albizu Campos Puerto Rican HS,"2739 W Division St, Chicago, IL 60622",67.0,23.0,29.0,25.0,57.0,0.6341047974157834,54344.0
+631,YCCS - Innovations HS of Arts Integration,"17 N State St, Chicago, IL 60602",47.0,45.0,48.0,18.0,47.0,0.6074208391492812,25272.0
+632,YCCS - Jane Addams Alternative HS,"1814 S Union Ave, Chicago, IL 60616",99.0,99.0,98.0,99.0,92.0,-0.6468238760074261,41111.0
+633,YCCS - McKinley Lakeside Leadership HS,"2920 S Wabash Ave, Chicago, IL 60616",57.0,18.0,7.0,,49.0,0.6365304081980881,41111.0
+634,YCCS - Olive Harvey Middle College HS,"10001 S Woodlawn Ave, Chicago, IL 60628",68.0,58.0,55.0,,48.0,0.4032252760032895,47232.0
+635,YCCS - Sullivan House Alternative HS,"8164 S South Chicago Ave, Chicago, IL 60617",89.0,59.0,67.0,48.0,60.0,-0.2109913871486197,43572.0
+636,YCCS - Truman Middle College HS,"1145 W Wilson Ave, Chicago, IL 60640",62.0,48.0,45.0,32.0,64.0,0.5895072325277588,44410.0
+637,YCCS - West Town Acad Alternative HS,"500 N Sacramento Blvd, Chicago, IL 60612",,59.0,50.0,25.0,,0.5763939091754715,31941.0
+638,YCCS - Youth Connection Leadership Acad HS,"3424 S State St, Chicago, IL 60616",39.0,52.0,57.0,,39.0,0.6129331211078681,41111.0
+639,Young Women's Leadership Charter School,"2641 S Calumet Ave, Chicago, IL 60616",91.0,61.0,60.0,57.0,57.0,-0.29917960279327266,41111.0
