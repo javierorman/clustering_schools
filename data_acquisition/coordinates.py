@@ -51,12 +51,6 @@ class GeocodingClient():
 geocoder = GeocodingClient()
 schools_df = pd.read_csv('../data_raw/schools.csv')
 
-# address = '2009 W Schiller St, Chicago, IL 60622'
-# url = geocoder.parse_url(address)
-# response = geocoder.get_geocode(url)
-# lat, lng = geocoder.read_response(response)
-# geocoder.add_coordinates(lat, lng)
-# print(geocoder.lat_list, geocoder.lng_list)
 
 for idx, address in enumerate(schools_df.Address):
     print(idx, end=' ')
